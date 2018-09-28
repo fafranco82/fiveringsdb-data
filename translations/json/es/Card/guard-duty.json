@@ -1,0 +1,7 @@
+[
+    {
+        "id": "guard-duty",
+        "name": "Guard Duty",
+        "text": "<em>Keeper</em> role only.\n<b>Action:</b> If attached character is defending – honor it."
+    }
+]

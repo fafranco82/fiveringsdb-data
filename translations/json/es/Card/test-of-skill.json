@@ -1,0 +1,7 @@
+[
+    {
+        "id": "test-of-skill",
+        "name": "Test of Skill",
+        "text": "<em>Seeker</em> role only.\n<b>Action:</b> Name a card type. Reveal the top 3 cards of your conflict deck (top 4 cards instead if you control a <em>Duelist</em> character) – add up to 2 revealed cards of that type to your hand and discard the rest."
+    }
+]

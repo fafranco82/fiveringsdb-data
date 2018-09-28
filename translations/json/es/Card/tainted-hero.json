@@ -1,0 +1,7 @@
+[
+    {
+        "id": "tainted-hero",
+        "name": "Tainted Hero",
+        "text": "This character cannot be declared as an attacker or defender.\n<b>Action:</b> Sacrifice a <i>{friendly)</i> character – until the end of the phase, treat this character's printed text box as if it were blank (except for <em>Traits</em>)."
+    }
+]

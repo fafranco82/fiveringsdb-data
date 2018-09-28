@@ -1,0 +1,7 @@
+[
+    {
+        "id": "sanpuku-seido",
+        "name": "Sanpuku Seidō",
+        "text": "Cannot be a stronghold province.\nWhile resolving a conflict at this province, characters count their glory instead of their [conflict-military] skill and [conflict-political] skill."
+    }
+]

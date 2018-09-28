@@ -1,0 +1,7 @@
+[
+    {
+        "id": "pacifism",
+        "name": "Pacifism",
+        "text": "This attachment cannot be played during a conflict.\nAttached character cannot participate in [conflict-military] conflicts."
+    }
+]

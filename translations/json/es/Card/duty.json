@@ -1,0 +1,7 @@
+[
+    {
+        "id": "duty",
+        "name": "Duty",
+        "text": "Limit 1 per deck.\n<b>Interrupt:</b> When the effect of a card ability, ring effect, or framework step would cause you to lose your last honor – cancel that effect, then gain 1 honor."
+    }
+]
