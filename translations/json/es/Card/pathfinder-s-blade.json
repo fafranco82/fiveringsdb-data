@@ -1,0 +1,7 @@
+[
+    {
+        "id": "pathfinder-s-blade",
+        "name": "Espada de guía",
+        "text": "<em>Seeker</em> role only.\n<b>Interrupt:</b> When the effects of a triggered ability on the attacked province would initiate, if attached character is attacking, sacrifice this attachment – cancel those effects."
+    }
+]

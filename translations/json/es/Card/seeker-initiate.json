@@ -1,0 +1,7 @@
+[
+    {
+        "id": "seeker-initiate",
+        "name": "Buscador iniciado",
+        "text": "<em>Seeker</em> role only.\n<b>Reaction:</b> After you claim a ring that matches the element of your role – search the top 5 cards of your conflict deck for a card and add it to your hand. Shuffle."
+    }
+]

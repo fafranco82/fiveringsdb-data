@@ -1,0 +1,7 @@
+[
+    {
+        "id": "pit-trap",
+        "name": "Trampa de foso",
+        "text": "Attach to a character.\nPlay only on an attacking character.\nAttached character does not ready during the regroup phase.\n<i>Errata from RRG v1.2</i>"
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "id": "raise-the-alarm",
+        "name": "Tocar a rebato",
+        "text": "<b>Action:</b> During a [conflict-military] conflict in which you are the defending player – turn the dynasty card in the attacked province faceup. Then, if that card is a character, put it into play as a defender."
+    }
+]
