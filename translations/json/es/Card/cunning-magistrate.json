@@ -1,7 +1,7 @@
 [
     {
         "id": "cunning-magistrate",
-        "name": "Cunning Magistrate",
-        "text": "While this character is participating in a conflict, each other character that is dishonored does not count its skill toward the resolution of this conflict."
+        "name": "Magistrado astuto",
+        "text": "Mientras este Personaje esté participando en un Conflicto, todos los demás Personajes que estén Deshonrados no aportarán su Habilidad para la resolución de este Conflicto."
     }
 ]

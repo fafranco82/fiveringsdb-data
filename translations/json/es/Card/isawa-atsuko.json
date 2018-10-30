@@ -2,6 +2,6 @@
     {
         "id": "isawa-atsuko",
         "name": "Isawa Atsuko",
-        "text": "<b>Action:</b> During a [element-void] conflict – until the end of the conflict, each participating character you control gets +1[conflict-military] and +1[conflict-political] and each participating character your opponent controls gets –1[conflict-military] and –1[conflict-political]."
+        "text": "<b>Acción:</b> durante un Conflicto [element-void] — hasta el final del Conflicto, cada Personaje participante que controles recibe +1 [conflict-military] y +1 [conflict-political], y cada Personaje participante controlado por tu adversario recibe -1 [conflict-military] y -1 [conflict-political]."
     }
 ]

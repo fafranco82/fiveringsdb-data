@@ -1,7 +1,7 @@
 [
     {
         "id": "supernatural-storm",
-        "name": "Supernatural Storm",
-        "text": "<b>Action:</b> Choose a participating character – that character gets +X[conflict-military] and +X[conflict-political] until the end of the conflict. X is equal to the number of <em>Shugenja</em> characters you control."
+        "name": "Tormenta sobrenatural",
+        "text": "<b>Acción:</b> elige un Personaje participante — ese Personaje recibe +X [conflict-military] y +X [conflict-political] hasta el final del Conflicto. X es igual al número de Personajes <em>Shugenja</em> que controles."
     }
 ]

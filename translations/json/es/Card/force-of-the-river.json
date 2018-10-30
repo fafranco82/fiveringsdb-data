@@ -1,7 +1,7 @@
 [
     {
         "id": "force-of-the-river",
-        "name": "Force of the River",
-        "text": "Attach to a <em>Shugenja</em> character you control.\n<b>Action:</b> During a conflict – put each facedown card in your provinces into play facedown in the conflict as 1[conflict-military], -[conflict-political], 0 glory characters with the <em>Cavalry</em> and <em>Spirit</em> traits. Discard those characters at the end of the conflict."
+        "name": "La fuerza del río",
+        "text": "Vincula esta carta a un Personaje <em>Shugenja</em> que controles.\n<b>Acción:</b> durante un Conflicto — pon en juego boca abajo en el Conflicto todas las cartas que tengas boca abajo en tus Provincias; cada una de ellas se considera un Personaje con 1 [conflict-military], — [conflict-political], 0 de Gloria y los rasgos <em>Caballería</em> y <em>Espíritu</em>. Descarta esos Personajes al final del Conflicto."
     }
 ]

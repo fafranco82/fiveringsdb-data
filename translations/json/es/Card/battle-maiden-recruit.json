@@ -1,7 +1,7 @@
 [
     {
         "id": "battle-maiden-recruit",
-        "name": "Battle Maiden Recruit",
-        "text": "This character gets +2[conflict-military] while you have claimed the [element-water] or [element-void] ring."
+        "name": "Recluta de las doncellas de batalla",
+        "text": "Este Personaje recibe +2 [conflict-military] mientras tengas reclamado el Anillo [element-water] o el Anillo [elemental-void]."
     }
 ]

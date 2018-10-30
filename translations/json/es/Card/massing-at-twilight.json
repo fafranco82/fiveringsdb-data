@@ -2,6 +2,6 @@
     {
         "id": "massing-at-twilight",
         "name": "Concentración de tropas al anochecer",
-        "text": "<em>Void</em> role only.\nWhile resolving conflicts at this province, each character counts its combined [conflict-military] and [conflict-political] skill."
+        "text": "Sólo Vocación de <em>Vacío</em>.\nMientras se estén resolviendo Conflictos en esta Provincia, cada Personaje aporta el valor combinado de sus Habilidades [conflict-military] y [conflict-political]."
     }
 ]

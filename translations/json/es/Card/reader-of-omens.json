@@ -1,7 +1,7 @@
 [
     {
         "id": "reader-of-omens",
-        "name": "Reader of Omens",
-        "text": "This character gets +3[conflict-political] while you have claimed the [element-air] or [element-void] ring."
+        "name": "Intérprete de augurios",
+        "text": "Este Personaje recibe +3 [conflict-political] mientras tengas reclamado el Anillo [element-air] o el Anillo [element-void]."
     }
 ]

@@ -2,6 +2,6 @@
     {
         "id": "raise-the-alarm",
         "name": "Tocar a rebato",
-        "text": "<b>Action:</b> During a [conflict-military] conflict in which you are the defending player – turn the dynasty card in the attacked province faceup. Then, if that card is a character, put it into play as a defender."
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-military] en el que tú seas el jugador defensor — pon boca arriba una carta de Dinastía que esté en la Provincia atacada. Luego, si esa carta es un Personaje, ponlo en juego como defensor."
     }
 ]

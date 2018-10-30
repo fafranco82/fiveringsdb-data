@@ -1,7 +1,7 @@
 [
     {
         "id": "formal-invitation",
-        "name": "Formal Invitation",
-        "text": "Attach to a character with glory 2 or higher.\n<b>Action:</b> During a [conflict-political] conflict – move attached character to the conflict."
+        "name": "Invitación formal",
+        "text": "Vincula esta carta a un Personaje que tenga 2 o más de Gloria.\n<b>Acción:</b> durante un Conflicto [conflict-political] — traslada el Personaje vinculado al Conflicto."
     }
 ]

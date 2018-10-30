@@ -1,7 +1,7 @@
 [
     {
         "id": "kuni-laboratory",
-        "name": "Kuni Laboratory",
-        "text": "Each character you control gets +1[conflict-military] and +1[conflict-political].\n<b>Forced Reaction:</b> After the conflict phase begins – lose 1 honor."
+        "name": "Laboratorio Kuni",
+        "text": "Cada Personaje que controles recibe +1 [conflict-military] y +1 [conflict-political].\n<b>Reacción obligada:</b> después de que empiece la fase de Conflicto — pierdes 1 de Honor."
     }
 ]

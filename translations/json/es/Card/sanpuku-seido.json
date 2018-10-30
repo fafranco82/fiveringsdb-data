@@ -2,6 +2,6 @@
     {
         "id": "sanpuku-seido",
         "name": "Sanpuku Seidō",
-        "text": "Cannot be a stronghold province.\nWhile resolving a conflict at this province, characters count their glory instead of their [conflict-military] skill and [conflict-political] skill."
+        "text": "Esta Provincia no puede utilizarse como Fortaleza.\nMientras se esté resolviendo un Conflicto en esta Provincia, se cuenta la Gloria de los Personajes en vez de su Habilidad [conflict-military] y su Habilidad [conflict-political]."
     }
 ]

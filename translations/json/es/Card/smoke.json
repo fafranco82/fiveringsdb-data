@@ -2,6 +2,6 @@
     {
         "id": "smoke",
         "name": "Humo",
-        "text": "<b>Action:</b> While attached character is participating in a conflict, bow and sacrifice this attachment – until the end of the conflict, each non-unique participating character gets -2[conflict-military]."
+        "text": "<b>Acción:</b> mientras el Personaje vinculado esté participando en un Conflicto, inclina y sacrifica este Accesorio — hasta el final del Conflicto, todos los Personajes participantes que no sean únicos reciben -2 [conflict-military]."
     }
 ]

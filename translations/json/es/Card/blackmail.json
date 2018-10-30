@@ -1,7 +1,7 @@
 [
     {
         "id": "blackmail",
-        "name": "Blackmail",
-        "text": "Play only if you are less honorable than your opponent.\n<b>Action:</b> During a conflict, choose a character with printed cost 2 or lower controlled by your opponent – take control of that character until the end of the conflict."
+        "name": "Chantaje",
+        "text": "Juega esta carta sólo si eres menos honorable que tu adversario.\n<b>Acción:</b> durante un Conflicto, elige un Personaje con un coste impreso de 2 o menos controlado por tu adversario — toma el control de ese Personaje hasta el final del Conflicto."
     }
 ]

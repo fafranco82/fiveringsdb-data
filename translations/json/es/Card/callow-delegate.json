@@ -1,7 +1,7 @@
 [
     {
         "id": "callow-delegate",
-        "name": "Callow Delegate",
-        "text": "<b>Interrupt:</b> When this character leaves play, choose a character you control – honor that character."
+        "name": "Delegado inexperto",
+        "text": "<b>Interrupción:</b> cuando este Personaje abandone el juego, elige un Personaje que controles — honra a ese Personaje."
     }
 ]

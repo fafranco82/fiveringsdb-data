@@ -1,7 +1,7 @@
 [
     {
         "id": "backhanded-compliment",
-        "name": "Backhanded Compliment",
-        "text": "<em>Keeper</em> role only.\n<b>Action:</b> Choose a player – that player draws 1 card and loses 1 honor."
+        "name": "Cumplido ambiguo",
+        "text": "Sólo Vocación <em>Guardián</em>.\n<b>Acción:</b> elige un jugador — ese jugador roba 1 carta y pierde 1 de honor."
     }
 ]

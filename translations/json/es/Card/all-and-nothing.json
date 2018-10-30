@@ -1,7 +1,7 @@
 [
     {
         "id": "all-and-nothing",
-        "name": "All and Nothing",
-        "text": "<b>Interrupt:</b> When you would resolve the [element-void] ring effect, choose another ring – resolve that ring's effect instead. Draw 1 card."
+        "name": "Todo y nada",
+        "text": "<b>Interrupción:</b> cuando vayas a resolver el efecto del Anillo [element-void], elige otro Anillo — resuelve el efecto de ese Anillo en su lugar. Roba 1 carta."
     }
 ]

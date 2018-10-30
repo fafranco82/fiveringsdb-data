@@ -1,7 +1,7 @@
 [
     {
         "id": "cautious-scout",
-        "name": "Cautious Scout",
-        "text": "While this character is attacking alone, treat the defending province as if its printed text box were blank (except for <em>Traits</em>)."
+        "name": "Explorador cauteloso",
+        "text": "Mientras este Personaje esté atancando solo, se trata la Provincia defendida como si su texto de reglas impreso estuviese en blanco (a excepción de los <em>Rasgos</em>)."
     }
 ]

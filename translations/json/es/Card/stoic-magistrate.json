@@ -1,7 +1,7 @@
 [
     {
         "id": "stoic-magistrate",
-        "name": "Stoic Magistrate",
-        "text": "While this character is defending, each character with printed cost 2 or lower does not count its skill toward the resolution of this conflict."
+        "name": "Magistrado estoico",
+        "text": "Mientras este Personaje esté defendiendo, ningún Personaje que tenga un coste impreso de 2 o menos aportará su Habilidad para la resolución de este Conflicto."
     }
 ]

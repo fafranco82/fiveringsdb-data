@@ -1,7 +1,7 @@
 [
     {
         "id": "kitsu-warrior",
-        "name": "Kitsu Warrior",
-        "text": "For each [conflict-military] ring that is claimed, this character gets +2[conflict-military].\nFor each [conflict-political] ring that is claimed, this character gets +2[conflict-political]."
+        "name": "Guerrero kitsu",
+        "text": "Por cada Anillo [conflict-military] que esté reclamado, este Personaje recibe +2 [conflict-military].\nPor cada Anillo [conflict-political] que esté reclamado, este Personaje recibe +2 [conflict-political]."
     }
 ]

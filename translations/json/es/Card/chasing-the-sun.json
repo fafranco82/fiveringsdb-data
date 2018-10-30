@@ -1,7 +1,7 @@
 [
     {
         "id": "chasing-the-sun",
-        "name": "Chasing the Sun",
-        "text": "<em>Seeker</em> role only.\n<b>Action:</b> During a conflict in which you are the attacking player – move the contested ring to another eligible province and reveal it, if able. That province is now the attacked province."
+        "name": "Perseguir el sol",
+        "text": "Sólo Vocación <em>Buscador</em>.\n<b>Acción:</b> durante un Conflicto en el que tú seas el jugador atacante — traslada el Anillo disputado a otra Provincia válida y muéstralo (si puedes). Esa Provincia es ahora la Provincia atacada."
     }
 ]

@@ -2,6 +2,6 @@
     {
         "id": "entrenched-position",
         "name": "Posición atrincherada",
-        "text": "This province gets +5 strength during [conflict-military] conflicts."
+        "text": "Esta Provincia recibe un +5 a su Fuerza durante Conflictos [conflict-military]."
     }
 ]

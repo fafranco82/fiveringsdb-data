@@ -1,7 +1,7 @@
 [
     {
         "id": "steward-of-law",
-        "name": "Steward of Law",
-        "text": "While this character is participating in a conflict, characters cannot become dishonored."
+        "name": "Defensor legal",
+        "text": "Mientras este Personaje esté participando en un Conflicto, ningún Personaje puede resultar Deshonrado."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "embrace-the-void",
-        "name": "Embrace the Void",
-        "text": "Play only if you control a <em>Shugenja</em> character.\n<b>Interrupt:</b> When 1 or more fate would be removed from attached character – instead, move that fate to your fate pool."
+        "name": "Entregarse al Vacío",
+        "text": "Juega esta carta sólo si controlas un Personaje <em>Shugenja</em>.\n<b>Interrupción:</b> cuando vaya a retirarse al menos 1 de Destino del Personaje vinculado — en vez de eso traslada ese Destino a tu reserva de Destino."
     }
 ]

@@ -2,6 +2,6 @@
     {
         "id": "rout",
         "name": "Desbandada",
-        "text": "<b>Action:</b> During a conflict, choose an opponent's character with lower [conflict-military] skill than a participating <em>Bushi</em> character you control – move the chosen character home."
+        "text": "<b>Acción:</b> durante un Conflicto, elige un Personaje de un adversario cuya Habilidad [conflict-military] sea inferior a la de un Personaje <em>Bushi</em> participante que controles — traslada el Personaje elegido a Casa."
     }
 ]

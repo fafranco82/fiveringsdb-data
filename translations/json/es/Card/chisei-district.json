@@ -1,7 +1,7 @@
 [
     {
         "id": "chisei-district",
-        "name": "Chisei District",
-        "text": "Limit 1 per deck.\n[conflict-military] conflicts cannot be declared against this holding's province."
+        "name": "Distritio Chisei",
+        "text": "Límite de 1 por mazo.\nNo pueden declararse Conflictos [conflict-military] contra la Provincia de este Recurso."
     }
 ]

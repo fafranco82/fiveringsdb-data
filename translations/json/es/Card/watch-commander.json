@@ -2,6 +2,6 @@
     {
         "id": "watch-commander",
         "name": "Comandante de la guardia",
-        "text": "Attach to a character you control. Limit 1 per character.\n<b>Reaction:</b> After an opponent plays a card during a conflict in which attached character is participating – that player loses 1 honor. (Unlimited.)"
+        "text": "Vincula esta carta a un Personaje que controles. Límite de 1 por Personaje.\n<b>Reacción:</b> después de que un adversario juegue una carta durante un Conflicto en el que esté participando el Personaje vinculado — ese jugador pierde 1 de Honor. (Sin límite de usos.)"
     }
 ]

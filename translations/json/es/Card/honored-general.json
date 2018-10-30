@@ -1,7 +1,7 @@
 [
     {
         "id": "honored-general",
-        "name": "Honored General",
-        "text": "During a conflict in which this character is participating, each other participating [clan-lion] character you control gets +1[conflict-military].\n<b>Reaction:</b> After this character enters play – honor it."
+        "name": "General respetado",
+        "text": "Durante un Conflicto en el que esté participando este Personaje, todos los demás Personajes [clan-lion] participantes que controles reciben +1 [conflict-military].\n<b>Reacción:</b> después de que este Personaje entre en juego — hónralo."
     }
 ]

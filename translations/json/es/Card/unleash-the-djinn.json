@@ -1,7 +1,7 @@
 [
     {
         "id": "unleash-the-djinn",
-        "name": "Unleash the Djinn",
-        "text": "<em>Fire</em> role only.\n<b>Action:</b> During a conflict, lose 3 honor – set the [conflict-military] and [conflict-political] skill of each participating character to 3 until the end of the conflict."
+        "name": "Liberar al djinn",
+        "text": "Sólo Vocación de <em>Fuego</em>.\n<b>Acción:</b> durante un Conflicto, pierde 3 de honor — fija en 3 los valores de las Habilidades [conflict-military] y [conflict-political] de cada Personaje participante hasat el final del Conflicto."
     }
 ]

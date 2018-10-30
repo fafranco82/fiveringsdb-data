@@ -1,7 +1,7 @@
 [
     {
         "id": "infiltrator",
-        "name": "Infiltrator",
-        "text": "Play only if the bid on your honor dial is higher than an opponent's.\n<b>Action:</b> During a conflict, look at the top card of an opponent's conflict deck – either immediately play that card as if it were in your hand or discard it."
+        "name": "Infiltrada",
+        "text": "Juega esta carta sólo si la puja mostrada en tu medidor de Honor es mayor que la de un adversario.\n<b>Acción:</b> durante un Conflicto, mira la primera carta del mazo de Conflicto de un adversario — elige entre jugar esa carta inmediatamente como si estuviera en tu mano o descartarla."
     }
 ]

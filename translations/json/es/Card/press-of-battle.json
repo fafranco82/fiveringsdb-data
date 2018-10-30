@@ -1,7 +1,7 @@
 [
     {
         "id": "press-of-battle",
-        "name": "Press of Battle",
-        "text": "<em>Water</em> role only.\n<b>Action:</b> During a [conflict-military] conflict, if you control more participating characters than your opponent, choose a non-unique participating character – bow that character."
+        "name": "El fragor de la batalla",
+        "text": "Sólo Vocación de <em>Agua</em>.\n<b>Acción:</b> durante un Conflicto [conflict-military], si controlas más Personajes participantes que tu adversario, elige un Personaje participante que no sea único — inclina ese Personaje."
     }
 ]

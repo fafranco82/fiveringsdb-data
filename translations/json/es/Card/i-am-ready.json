@@ -1,7 +1,7 @@
 [
     {
         "id": "i-am-ready",
-        "name": "I Am Ready",
-        "text": "<b>Action:</b> Remove 1 fate from a <i>(friendly)</i> [clan-unicorn] character – ready that character."
+        "name": "Estoy listo",
+        "text": "<b>Acción:</b> retira 1 de Destino de un Personaje [clan-unicorn] aliado — prepara ese Personaje."
     }
 ]

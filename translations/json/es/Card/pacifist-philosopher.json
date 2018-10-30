@@ -1,7 +1,7 @@
 [
     {
         "id": "pacifist-philosopher",
-        "name": "Pacifist Philosopher",
-        "text": "<b>Reaction:</b> After a player passes on declaring a conflict - gain 1 fate. (Limit twice per round.)"
+        "name": "Filósofo pacifista",
+        "text": "<b>Reacción:</b> después de que un jugador pase su turno para declarar un Conflicto — ganas 1 de Destino. (Límite de dos veces por ronda.)"
     }
 ]

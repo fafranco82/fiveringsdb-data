@@ -1,7 +1,7 @@
 [
     {
         "id": "tainted-hero",
-        "name": "Tainted Hero",
-        "text": "This character cannot be declared as an attacker or defender.\n<b>Action:</b> Sacrifice a <i>{friendly)</i> character – until the end of the phase, treat this character's printed text box as if it were blank (except for <em>Traits</em>)."
+        "name": "Héroe manchado",
+        "text": "Este Personaje no puede ser declarado como atacante ni como defensor.\n<b>Acción:</b> sacrifica un Personaje <i>(aliado)</i> — hasta el final de la fase, se trata este Personaje como si su texto de reglas impreso estuviese en blanco (a excepción de los <em>Rasgos</em>)."
     }
 ]

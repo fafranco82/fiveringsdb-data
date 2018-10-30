@@ -1,7 +1,7 @@
 [
     {
         "id": "know-the-world",
-        "name": "Know the World",
-        "text": "<b>Action:</b> Switch a ring in your claimed ring pool with an unclaimed ring and gain all fate on that ring. <i>(Retain the ring's conflict type.)</i>"
+        "name": "Entiende el mundo",
+        "text": "<b>Acción:</b> intercambia un Anillo de tu reserva de Anillos reclamados por un Anillo sin reclamar y gana todo el Destino que haya sobre ese Anillo. <i>(El tipo de Conflicto del Anillo no varía.)</i>"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "noble-sacrifice",
-        "name": "Noble Sacrifice",
-        "text": "<b>Action:</b> Sacrifice a <i>(friendly)</i> honored character. Choose a dishonored character – discard that character."
+        "name": "Sacrificio noble",
+        "text": "<b>Acción:</b> sacrifica un Personaje aliado Honrado. Elige un Personaje Deshonrado — descarta ese Personaje."
     }
 ]

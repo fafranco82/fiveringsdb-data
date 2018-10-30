@@ -1,7 +1,7 @@
 [
     {
         "id": "lion-s-pride-brawler",
-        "name": "Lion's Pride Brawler",
-        "text": "<b>Action:</b> While this character is attacking, choose a character with equal or lower [conflict-military] skill than this character – bow that character."
+        "name": "Extorsionadora de la Manada del León",
+        "text": "<b>Acción:</b> mientras este Personaje esté atacando, elige un Personaje que tenga una Habilidad [conflict-military] igual o inferior a la de este Personaje — inclina ese Personaje."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "court-novice",
-        "name": "Court Novice",
-        "text": "This character gets +2[conflict-political] while you have claimed the [element-air] or [element-water] ring."
+        "name": "Cortesano primerizo",
+        "text": "Este Personaje recibe +2 [conflict-political] mientras tengas reclamado el Anillo [element-air] o el Anillo [element-water]."
     }
 ]

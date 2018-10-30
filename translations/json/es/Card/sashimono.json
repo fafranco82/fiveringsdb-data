@@ -2,6 +2,6 @@
     {
         "id": "sashimono",
         "name": "Sashimono",
-        "text": "Attach to a <em>Bushi</em> character you control.\nAttached character does not bow as a result of conflict resolution during [conflict-military] conflicts."
+        "text": "Vincula esta carta a un Personaje <em>Bushi</em> que controles.\nEl Personaje vinculado no se inclina a consecuencia de la resolución de un Conflicto durante Conflictos [conflict-military]."
     }
 ]

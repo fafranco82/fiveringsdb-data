@@ -2,6 +2,6 @@
     {
         "id": "wandering-ronin",
         "name": "Ronin errante",
-        "text": "<b>Action:</b> During a conflict, remove 1 fate from this character – it gets +2[conflict-military] and +2[conflict-political] until the end of the conflict. (Limit twice per conflict.)"
+        "text": "<b>Acción:</b> durante un Conflicto, retira 1 de Destino de este Personaje — este Personaje recibe +2 [conflict-military] y +2 [conflict-political] hasta el final del Conflicto. (Límite de dos veces por Conflicto.)"
     }
 ]

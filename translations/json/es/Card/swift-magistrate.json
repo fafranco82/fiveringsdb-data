@@ -1,7 +1,7 @@
 [
     {
         "id": "swift-magistrate",
-        "name": "Swift Magistrate",
-        "text": "While this character is attacking, each other character that has 1 or more fate on it does not count its skill toward the resolution of this conflict."
+        "name": "Magistrada veloz",
+        "text": "Mientras este Personaje esté atacando, ningún Personaje aparte de ella que tenga al menos 1 de Destino aportará su Habilidad para la resolución de este Conflicto."
     }
 ]

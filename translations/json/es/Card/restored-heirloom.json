@@ -1,7 +1,7 @@
 [
     {
         "id": "restored-heirloom",
-        "name": "Restored Heirloom",
-        "text": "<em>Water</em> role only. Restricted.\n<b>Interrupt:</b> When you would resolve the [element-water] ring effect, choose a character you control – instead of resolving normal ring effects, put this attachment into play from your hand or conflict discard pile, attached to that character."
+        "name": "Herencia restaurada",
+        "text": "Sólo Vocación de <em>Agua</em>.\n<b>Interrupción:</b> cuando vayas a resolver el efecto de un Anillo [element-water], elige un Personaje que controles — en vez de resolver los efectos normales del Anillo, pon en juego este Accesorio desde tu mano o desde la pila de descartes de tu mazo de Conflicto, vinculado a ese Personaje."
     }
 ]

@@ -2,6 +2,6 @@
     {
         "id": "rebuild",
         "name": "Reconstrucción",
-        "text": "<b>Action:</b> Shuffle a card in one of your unbroken provinces back into your dynasty deck. Choose a holding in your dynasty discard pile – put that holding into play in that province."
+        "text": "<b>Acción:</b> devuelve a tu mazo de Dinastía una carta desde una de tus Provincias que no estén rotas y baraja el mazo. Elige un Recurso que esté en la pila de descartes de tu mazo de Dinastía — pon en juego ese Recurso en esa Provincia."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "war-dog-master",
-        "name": "War Dog Master",
-        "text": "<b>Reaction:</b> After this character is declared as an attacker, discard the top card of your dynasty deck – this character gets +X[conflict-military] until the end of the conflict. X is the printed cost of the discarded card."
+        "name": "Adiestrador de perros de guerra",
+        "text": "<b>Reacción:</b> después de que este Personaje sea declarado como atacante, descarta la primera carta de tu mazo de Dinastía — este Personaje recibe +X [conflict-military] hasta el final del Conflicto. X es el coste impreso de la carta descartada."
     }
 ]

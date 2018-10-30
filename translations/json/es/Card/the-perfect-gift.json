@@ -1,7 +1,7 @@
 [
     {
         "id": "the-perfect-gift",
-        "name": "The Perfect Gift",
-        "text": "<b>Action:</b> Reveal the top 4 cards of each player's conflict deck. Choose 1 revealed card owned by each player and add it to its owner's hand. Shuffle."
+        "name": "El regalo perfecto",
+        "text": "<b>Acción:</b> muestra las 4 primeras cartas del mazo de Conflicto de cada jugador. Elige 1 carta mostrada de cada jugador y añádela a la mano de su propietario. Baraja los mazos."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "dispatch",
-        "name": "Dispatch",
-        "text": "Limited. <i>(No more than one limited card can be played by each player each round.)</i>\n<b>Action:</b> Move a [clan-unicorn] character you control into a conflict or home from a conflict."
+        "name": "Enviar tropas",
+        "text": "Limitada.\n<b>Acción:</b> traslada un Personaje [clan-unicorn] que controles a un Conflicto o a Casa desde un Conflicto."
     }
 ]

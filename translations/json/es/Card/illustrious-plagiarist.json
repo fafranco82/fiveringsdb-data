@@ -1,7 +1,7 @@
 [
     {
         "id": "illustrious-plagiarist",
-        "name": "Illustrious Plagiarist",
-        "text": "<b>Action:</b> Choose the topmost event in an opponent's conflict discard pile – this character gains each of that event's action abilities until the end of the phase."
+        "name": "Plagiador ilustre",
+        "text": "<b>Acción:</b> elige el primer Evento que haya en la parte superio de la pila de descartes del mazo de Conflicto de un adversario — este Personaje gana todas las capacidades de acción de ese Evento hasta el final de la fase."
     }
 ]

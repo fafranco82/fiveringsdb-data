@@ -1,7 +1,7 @@
 [
     {
         "id": "forged-edict",
-        "name": "Forged Edict",
-        "text": "<b>Interrupt:</b> When the effects of an event would initiate, dishonor a <i>(friendly)</i> <em>Courtier</em> character – cancel those effects."
+        "name": "Decreto falsificado",
+        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos de un Evento, deshonra a un Personaje aliado <em>Cortesano</em> — anula esos efectos."
     }
 ]

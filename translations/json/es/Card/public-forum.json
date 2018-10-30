@@ -2,6 +2,6 @@
     {
         "id": "public-forum",
         "name": "Foro público",
-        "text": "Cannot be a stronghold province.\n<b>Interrupt:</b> When this province would be broken, if there are no honor tokens on it – place 1 honor token on it instead."
+        "text": "Esta Provincia no puede utilizarse como Fortaleza.\n<b>Interrupción:</b> cuando esta Provincia vaya a romperse, si no tiene ninguna ficha de Honor encima — en vez de eso coloca 1 ficha de Honor sobre ella."
     }
 ]

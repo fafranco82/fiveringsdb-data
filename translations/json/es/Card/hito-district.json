@@ -1,7 +1,7 @@
 [
     {
         "id": "hito-district",
-        "name": "Hito District",
-        "text": "Limit 1 per deck.\n[conflict-political] conflicts cannot be declared against this holding's province."
+        "name": "Distrito Hito",
+        "text": "Límite de 1 por mazo.\nNo pueden declararse Conflictos [conflict-political] contra la Provincia de este Recurso."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "crisis-breaker",
-        "name": "Crisis Breaker",
-        "text": "<em>Keeper</em> role only.\n<b>Action:</b> During a [conflict-military] conflict, if your opponent counts more current [conflict-military] skill than you, choose a <em>Berserker</em> character you control – ready that character and move it to the conflict."
+        "name": "Solucionador de crisis",
+        "text": "Sólo Vocación <em>Guardián</em>.\n<b>Acción:</b> durante un Conflicto [conflict-military], si el recuento de Habilidad [conflict-military] actual de tu adversario es superior al tuyo, elige un Personaje <em>Bersérker</em> que controles — prepara ese Personaje y trasládalo al Conflicto."
     }
 ]

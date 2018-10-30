@@ -1,7 +1,7 @@
 [
     {
         "id": "third-tower-guard",
-        "name": "Third Tower Guard",
-        "text": "This character gets +2[conflict-military] while you have claimed the [element-earth] or [element-water] ring."
+        "name": "Guardia de la Tercera Torre",
+        "text": "Este Personaje recibe +2 [conflict-military] mientras tengas reclamado el Anillo [element-earth] o el Anillo [element-water]."
     }
 ]

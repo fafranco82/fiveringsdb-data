@@ -1,7 +1,7 @@
 [
     {
         "id": "tainted-koku",
-        "name": "Tainted Koku",
-        "text": "<b>Interrupt:</b> When attached character leaves play – move this attachment to another character controlled by the same player."
+        "name": "Koku manchado",
+        "text": "<b>Interrupción:</b> cuando el Personaje vinculado abandone el juego — traslada este Accesorio a otro Personaje controlado por el mismo jugador."
     }
 ]

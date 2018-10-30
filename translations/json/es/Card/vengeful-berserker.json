@@ -1,7 +1,7 @@
 [
     {
         "id": "vengeful-berserker",
-        "name": "Vengeful Berserker",
-        "text": "<b>Reaction:</b> After another character you control leaves play during a conflict – double this character's [conflict-military] skill until the end of the conflict."
+        "name": "Bersérker vengador",
+        "text": "<b>Reacción:</b> después de que otro Personaje que controles abandone el juego durante un Conflicto — duplica la Habilidad [conflict-military] de este Personaje hasta el final del Conflicto."
     }
 ]

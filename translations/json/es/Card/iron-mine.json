@@ -1,7 +1,7 @@
 [
     {
         "id": "iron-mine",
-        "name": "Iron Mine",
-        "text": "<b>Interrupt:</b> When a character you control would leave play – sacrifice this holding instead."
+        "name": "Mina de hierro",
+        "text": "<b>Interrupción:</b> cuando un Personaje que controles vaya a abandonar el juego — en vez de eso sacrifica este Recurso."
     }
 ]

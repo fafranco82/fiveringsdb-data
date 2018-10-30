@@ -1,7 +1,7 @@
 [
     {
         "id": "utaku-infantry",
-        "name": "Utaku Infantry",
-        "text": "While this character is participating in a conflict, it gets +1[conflict-military] and +1[conflict-political] for each participating [clan-unicorn] character you control."
+        "name": "Infantería Utaku",
+        "text": "Mientras este Personaje esté participando en un Conflicto, recibe +1 [conflict-military] y +1 [conflict-political] por cada Personaje [clan-unicorn] participante que controles."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "guard-duty",
-        "name": "Guard Duty",
-        "text": "<em>Keeper</em> role only.\n<b>Action:</b> If attached character is defending – honor it."
+        "name": "Servicio de guardia",
+        "text": "Sólo Vocación <em>Guardián</em>.\n<b>Acción:</b> si el Personaje vinculado está defendiendo — hónralo."
     }
 ]

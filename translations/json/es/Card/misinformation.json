@@ -1,7 +1,7 @@
 [
     {
         "id": "misinformation",
-        "name": "Misinformation",
-        "text": "<b>Action:</b> During a conflict, if your honor bid is at least 2 higher than your opponent's – each participating character your opponent controls gets -1[conflict-military] and -1[conflict-political] until the end of the conflict."
+        "name": "Desinformación",
+        "text": "<b>Acción:</b> durante un Conflicto, si tu puja de Honor supera a la de tu adversario por 2 o más — cada Personaje participante controlado por tu adversario recibe -1 [conflict-military] y -1 [conflict-political] hasta el final del Conflicto."
     }
 ]

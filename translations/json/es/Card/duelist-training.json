@@ -1,7 +1,7 @@
 [
     {
         "id": "duelist-training",
-        "name": "Duelist Training",
-        "text": "Attached character gains: \"<b>Action:</b> While this character is participating in a conflict, choose a participating character controlled by your opponent – challenge that character to a [conflict-military] duel. Instead of giving honor for this duel's bid, a player may choose and discard the required number of cards from hand. Bow the loser of the duel.\""
+        "name": "Entrenamiento de duelista",
+        "text": "El Personaje vinculado gana: \"<b>Acción:</b> mientras este Personaje esté participando en un Conflicto, elige un Personaje participante controlado por tu adversario — desafía a este Personaje a un duelo [conflict-military]. En vez de entregar Honor por la puja de este duelo, un jugador puede elegir y descartar el número requerido de cartas de su mano. Inclina al perdedor del duelo.\""
     }
 ]

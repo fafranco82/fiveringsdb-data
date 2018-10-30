@@ -1,7 +1,7 @@
 [
     {
         "id": "disdainful-remark",
-        "name": "Disdainful Remark",
-        "text": "<em>Keeper</em> role only.\n<b>Action:</b> During a conflict, if you control a participating <em>Courtier</em> character – until the end of the conflict, the attacked province gets +X strength. X is equal to the number of cards in your opponent's hand."
+        "name": "Comentario desdeñoso",
+        "text": "Sólo Vocación <em>Guardián</em>.\n<b>Acción:</b> durante un Conflicto, si controlas un Personaje <em>Cortesano</em> participante — hasta el final del Conflicto, la Provincia atacada recibe un +X a su Fuerza. X es igual al número de cartas que haya en la mano de tu adversario."
     }
 ]

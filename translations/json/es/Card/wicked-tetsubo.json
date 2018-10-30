@@ -2,6 +2,6 @@
     {
         "id": "wicked-tetsubo",
         "name": "Tetsubō letal",
-        "text": "Attach to a <em>Berserker</em> character.\nRestricted.\n<b>Action:</b> During a conflict in which attached character is attacking, choose a defending character and select either [conflict-military] or [conflict-political] – set that character's selected skill to 0 until the end of the conflict."
+        "text": "Vincula esta carta a un Personaje <em>Bersérker</em>. Restringido.\n<b>Acción:</b> durante un Conflicto en el que esté atacando el Personaje vinculado, elige un Personaje defensor y escoge entre [conflict-military] o [conflict-political] — fija en 0 el valor de la Habilidad escogida de ese Personaje hasta el final del Conflicto."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "young-rumormonger",
-        "name": "Young Rumormonger",
-        "text": "<b>Interrupt:</b> When a character would be honored or dishonored, choose another character controlled by the same player – that character receives the honor or dishonor instead."
+        "name": "Joven difamador",
+        "text": "<b>Interrupción:</b> cuando un Personaje vaya a ser honrado o deshonrado, elige otro Personaje controlado por el mismo jugador — ese Personaje es honrado o deshonrado en su lugar."
     }
 ]

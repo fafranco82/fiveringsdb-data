@@ -1,7 +1,7 @@
 [
     {
         "id": "kabuki-hero",
-        "name": "Kabuki Hero",
-        "text": "<b>Action:</b> Spend 1 fate – this character gets +X[conflict-military] until the end of the conflict. X is equal to its [conflict-political] skill."
+        "name": "Héroe de kabuki",
+        "text": "<b>Acción:</b> gasta 1 de Destino — este Personaje recibe +X [conflict-military] hasta el final del Conflicto. X es igual a su Habilidad [conflict-political]."
     }
 ]

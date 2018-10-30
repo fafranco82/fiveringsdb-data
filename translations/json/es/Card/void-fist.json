@@ -2,6 +2,6 @@
     {
         "id": "void-fist",
         "name": "Puño de Vacío",
-        "text": "<b>Action:</b> During a conflict, if you have played at least 2 other cards this conflict, choose a participating character with equal or lower [conflict-military] skill than a participating <em>Monk</em> character you control – move the chosen character home and bow it."
+        "text": "<b>Acción:</b> durante un Conflicto, si has jugado al menos otras 2 cartas de en este Conflicto, elige un Personaje participante con un valor de Habilidad [conflict-military] igual o inferior al de un Personaje <em>Monje</em> participante que controles — traslada el Personaje elegido a Casa e inclínalo."
     }
 ]

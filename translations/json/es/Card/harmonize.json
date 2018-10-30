@@ -1,7 +1,7 @@
 [
     {
         "id": "harmonize",
-        "name": "Harmonize",
-        "text": "<em>Keeper</em> role only.\n<b>Action:</b> During a conflict in which you are the defending player, choose a defending character and an attacking character with equal or lower printed cost – move each chosen character home."
+        "name": "Armonizar",
+        "text": "Sólo Vocación <em>Guardián<em>.\n<b>Acción:</b> durante un Conflicto en el que tú seas el jugador defensor, elige un Personaje defensor y un Personaje atacante con un coste impreso igual o inferior — traslada todos los Personajes elegidos a Casa."
     }
 ]

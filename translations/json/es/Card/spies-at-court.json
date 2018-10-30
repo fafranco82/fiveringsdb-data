@@ -2,6 +2,6 @@
     {
         "id": "spies-at-court",
         "name": "Espías en la corte",
-        "text": "<b>Reaction:</b> After you win a [conflict-political] conflict, dishonor a <i>(friendly)</i> participating character – discard 2 cards at random from your opponent's hand. (Max 1 per conflict.)"
+        "text": "<b>Reacción:</b> después de que ganes un Conflicto [conflict-political], deshonra a un Personaje aliado participante — descarta 2 cartas al azar de la mano de tu adversario. (Máximo 1 por Conflicto.)"
     }
 ]

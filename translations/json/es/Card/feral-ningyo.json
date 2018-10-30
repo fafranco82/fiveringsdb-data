@@ -1,7 +1,7 @@
 [
     {
         "id": "feral-ningyo",
-        "name": "Feral Ningyo",
-        "text": "<b>Action:</b> During a [element-water] conflict – put this character into play from your hand in the conflict. At the end of the conflict, shuffle it into your conflict deck."
+        "name": "Ningyo salvaje",
+        "text": "<b>Acción:</b> durante un Conflicto [element-water] — pon en juego este Personaje en el Conflicto desde tu mano. Al final del Conflicto, devuélvelo a tu mazo de Conflicto y barájalo."
     }
 ]

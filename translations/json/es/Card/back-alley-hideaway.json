@@ -1,7 +1,7 @@
 [
     {
         "id": "back-alley-hideaway",
-        "name": "Back-Alley Hideaway",
-        "text": "<b>Interrupt:</b> When a [clan-scorpion] character you control leaves play – attach that character to this holding facedown instead of placing it in its owner's discard pile.\n<b>Action:</b> Play an attached facedown character from this holding as if it were in this province. Then, sacrifice this holding."
+        "name": "Escondite en un callejón",
+        "text": "<b>Interrupción:</b> cuando un Personaje [clan-scorpion] que controles abandone el juego — vincula ese Personaje boca abajo a este Recurso en vez de colocarlo en la pila de descartes de su propietario.\n<b>Acción:</b> juega un Personaje que esté vinculado boca abajo a este Recurso como si estuviera en esta Provincia. Luego sacrifica este Recurso."
     }
 ]

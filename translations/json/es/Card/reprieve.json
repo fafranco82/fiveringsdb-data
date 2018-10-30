@@ -2,6 +2,6 @@
     {
         "id": "reprieve",
         "name": "Indulto",
-        "text": "<b>Interrupt:</b> When attached character would leave play – discard this attachment instead."
+        "text": "<b>Interrupción:</b> cuando el Personaje vinculado vaya a abandonar el juego — en vez de eso descarta este Accesorio."
     }
 ]

@@ -2,6 +2,6 @@
     {
         "id": "outwit",
         "name": "Superar en astucia",
-        "text": "<b>Action:</b> During a conflict, choose an opponent's character with lower [conflict-political] skill than a participating <em>Courtier</em> character you control – move the chosen character home."
+        "text": "<b>Acción:</b> durante un Conflicto, elige un Personaje de un adversario cuya Habilidad [conflict-political] sea inferior a la de un Personaje <em>Cortesano</em> participante que controles — traslada el Personaje elegido a Casa."
     }
 ]

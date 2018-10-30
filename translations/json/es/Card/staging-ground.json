@@ -1,7 +1,7 @@
 [
     {
         "id": "staging-ground",
-        "name": "Staging Ground",
-        "text": "<b>Action:</b> Choose up to 2 facedown cards in your provinces – turn the chosen cards faceup."
+        "name": "Base de operaciones",
+        "text": "<b>Acción:</b> elige hasta 2 cartas que estén boca abajo en tus Provincias — pon boca arriba las cartas elegidas."
     }
 ]

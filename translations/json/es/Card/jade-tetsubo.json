@@ -2,6 +2,6 @@
     {
         "id": "jade-tetsubo",
         "name": "Tetsubō de jade",
-        "text": "Attach to a character you control. Restricted.\n<b>Action:</b> While attached character is participating in a conflict, bow this attachment. Choose a participating character with lower [conflict-military] skill than attached character – return all fate on that character to its owner's fate pool."
+        "text": "Vincula esta carta a un Personaje que controles. Restringido.\n<b>Reacción:</b> mientras el Personaje vinculado esté participando en un Conflicto, inclia este Accesorio. Elige un Personaje participante cuya Habilidad [conflict-military] sea inferior a la del Personaje vinculado — devuelve todo el Destino que haya sobre ese Personaje a la reserva de Destino de su propietario."
     }
 ]

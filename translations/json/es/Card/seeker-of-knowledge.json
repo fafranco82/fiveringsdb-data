@@ -1,7 +1,7 @@
 [
     {
         "id": "seeker-of-knowledge",
-        "name": "Seeker of Knowledge",
-        "text": "While this character is attacking, the contested ring gains the [element-air] element. If this character wins the conflict as an attacker, you may choose which of its ring effects to resolve."
+        "name": "Buscadora de conocimiento",
+        "text": "Mientras este Personaje esté atacando, el Anillo disputado gana el elemento [element-air]. Si este Personaje gana el Conflicto como atacante, puedes elegir cuál de sus efectos de Anillo resolver."
     }
 ]

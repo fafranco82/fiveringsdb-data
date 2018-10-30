@@ -1,7 +1,7 @@
 [
     {
         "id": "moto-youth",
-        "name": "Moto Youth",
-        "text": "This character gets +1[conflict-military] during the first [conflict-military] conflict each round."
+        "name": "Joven Moto",
+        "text": "Este Personaje recibe +1 [conflict-military] durante el primer Conflicto [conflict-military] de cada ronda."
     }
 ]

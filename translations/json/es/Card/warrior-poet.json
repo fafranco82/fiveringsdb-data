@@ -1,7 +1,7 @@
 [
     {
         "id": "warrior-poet",
-        "name": "Warrior Poet",
-        "text": "<b>Action:</b> While this character is participating in a conflict – each participating character controlled by your opponent gets –1[conflict-military] and –1[conflict-political] until the end of the conflict."
+        "name": "Poetisa guerrera",
+        "text": "<b>Acción:</b> mientras este Personaje esté participando en un Conflicto — cada Personaje participante controlado por tu adversario recibe -1 [conflict-military] y -1 [conflict-political] hasta el final del Conflicto."
     }
 ]

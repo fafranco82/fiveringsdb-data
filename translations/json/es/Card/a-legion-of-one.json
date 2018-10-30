@@ -1,7 +1,7 @@
 [
     {
         "id": "a-legion-of-one",
-        "name": "A Legion of One",
-        "text": "<b>Action:</b> During a [conflict-military] conflict, choose a character that is participating on your side alone – until the end of the conflict, that character gets +3[conflict-military]. You may remove 1 fate from that character to resolve this ability twice."
+        "name": "Yo soy legión",
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-military], elige un Personaje que esté participando solo en tu bando — hasta el final del Conflicto, ese Personaje recibe +3 [conflict-military]. Puedes retirar 1 de Destino de ese Personaje para resolver esta capacidad dos veces."
     }
 ]

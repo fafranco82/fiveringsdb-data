@@ -1,7 +1,7 @@
 [
     {
         "id": "test-of-skill",
-        "name": "Test of Skill",
-        "text": "<em>Seeker</em> role only.\n<b>Action:</b> Name a card type. Reveal the top 3 cards of your conflict deck (top 4 cards instead if you control a <em>Duelist</em> character) – add up to 2 revealed cards of that type to your hand and discard the rest."
+        "name": "Prueba de habilidad",
+        "text": "Sólo Vocación <em>Buscador</em>.\n<b>Acción:</b> nombra un tipo de carta. Muestra las 3 primeras cartas de tu mazo de Conflicto (las 4 primeras si controlas un Personaje <em>Duelista</em>) — añade a tu mano hasta 2 de las cartas de ese tipo mostradas y descarta las demás."
     }
 ]

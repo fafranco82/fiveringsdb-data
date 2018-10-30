@@ -2,6 +2,6 @@
     {
         "id": "bayushi-kachiko",
         "name": "Bayushi Kachiko",
-        "text": "<b>Action:</b> While this character is participating in a [conflict-political] conflict, choose a participating character with lower [conflict-political] than this character – move the chosen character home. Then, you may bow it."
+        "text": "<b>Acción:</b> mientras este Personaje esté participando en un Conflicto [conflict-political], elige un Personaje participante cuya Habilidad [conflict-political] sea inferior a la de este Personaje — traslada el Personaje elegido a Casa. Luego puedes inclinarlo."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "magnificent-lighthouse",
-        "name": "Magnificent Lighthouse",
-        "text": "<b>Action:</b> Look at the top 3 cards of an opponent's deck. Discard 1 of those cards, place another on top of that deck, and the other on the bottom of that deck."
+        "name": "Faro magnífico",
+        "text": "<b>Acción:</b> mira las 3 primeras cartas del mazo de un adversario — Descarta 1 de esas cartas, coloca la otra en la parte superior de ese mazo y coloca la última en la parte inferior de ese mazo."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "my-ancestor-s-strength",
-        "name": "My Ancestor's Strength",
-        "text": "<b>Action:</b> During a conflict, choose a participating <em>Shugenja</em> character you control and a character in your dynasty discard pile – until the end of the conflict, set the participating character's base [conflict-military] and [conflict-political] skill equal to the printed [conflict-military] and [conflict-political] skill of the other character."
+        "name": "El brío de mi ancestro",
+        "text": "<b>Acción:</b> durante un Conflicto, elige un Personaje <em>Shugenja</em> participante que controles y un Personaje que esté en la pila de descartes de tu mazo de Dinastía — hasta el final del Conflicto, los valores básicos de las Habilidades [conflict-military] y [conflict-political] del Personaje participante se fijan como los valores impresos de las Habilidades [conflict-military] y [conflict-political] del otro Personaje."
     }
 ]

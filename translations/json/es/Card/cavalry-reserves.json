@@ -1,7 +1,7 @@
 [
     {
         "id": "cavalry-reserves",
-        "name": "Cavalry Reserves",
-        "text": "<b>Action:</b> During a [conflict-military] conflict, choose up to 6 printed cost worth of <em>Cavalry</em> characters in your dynasty discard pile – put those characters into play in the conflict."
+        "name": "Reserva de caballería",
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-military], elige Personajes <em>Caballería</em> que sumen un coste impreso no superior a 6 y estén en la pila de descartes de tu mazo de Dinastía — pon en juego esos Personajes en el Conflicto."
     }
 ]

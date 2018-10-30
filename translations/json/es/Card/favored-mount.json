@@ -1,7 +1,7 @@
 [
     {
         "id": "favored-mount",
-        "name": "Favored Mount",
-        "text": "Attach to a character you control.\nAttached character gains <em>Cavalry</em>.\n<b>Action:</b> During a conflict, bow this attachment – move attached character to the conflict."
+        "name": "Montura predilecta",
+        "text": "Vincula esta carta a un Personaje que controles.\nEl Personaje vinculado gana <em>Caballería</em>.\n<b>Acción:</b> durante un Conflicto, inclina este Accesorio — traslada el Personaje vinculado al Conflicto."
     }
 ]

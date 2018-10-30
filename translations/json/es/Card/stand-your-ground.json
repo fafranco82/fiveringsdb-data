@@ -1,7 +1,7 @@
 [
     {
         "id": "stand-your-ground",
-        "name": "Stand Your Ground",
-        "text": "<b>Interrupt:</b> When an honored character you control would leave play – instead discard that character's status token."
+        "name": "Mantener la posición",
+        "text": "<b>Interrupción:</b> cuando un Personaje Honrado que controles vaya a abandonar el juego — en vez de eso descarta la ficha de Estatus de ese Personaje."
     }
 ]

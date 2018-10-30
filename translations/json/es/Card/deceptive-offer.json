@@ -1,7 +1,7 @@
 [
     {
         "id": "deceptive-offer",
-        "name": "Deceptive Offer",
-        "text": "<b>Action:</b> During a conflict, choose a participating character you control. Your opponent selects one – that character gets +2[conflict-military] and +2[conflict-political] until the end of the conflict, or your opponent gives you 1 honor."
+        "name": "Oferta engañosa",
+        "text": "<b>Acción:</b> durante un Conflicto, elige un Personaje participante que controles. Tu adversario elige una opción — ese Personaje recibe +2 [conflict-military] y +2 [conflict-political] hasta el final del Conflicto, o bien tu adversario te entrega 1 de Honor."
     }
 ]

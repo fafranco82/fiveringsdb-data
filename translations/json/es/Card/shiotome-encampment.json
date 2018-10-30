@@ -1,7 +1,7 @@
 [
     {
         "id": "shiotome-encampment",
-        "name": "Shiotome Encampment",
-        "text": "<b>Action:</b> If you have a [conflict-military] ring in your claimed ring pool, choose a <em>Cavalry</em> character – ready that character."
+        "name": "Campamento shiotome",
+        "text": "<b>Acción:</b> si tienes un Anillo [conflict-military] en tu reserva de Anillos reclamados, elige un Personaje de <em>Caballería</em> — prepara ese Personaje."
     }
 ]
