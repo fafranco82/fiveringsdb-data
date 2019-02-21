@@ -2,6 +2,6 @@
     {
         "id": "bayushi-aramoro",
         "name": "Bayushi Aramoro",
-        "text": "<b>Action:</b> While this character is participating in a [conflict-military] conflict, dishonor this character and choose a participating character controlled by your opponent – until the end of the conflict, that character gets -2[conflict-military] and is discarded if its [conflict-military] skill is 0."
+        "text": "<b>Acción:</b> mientras este Personaje esté participando en un Conflicto [conflict-military], deshonra a este Personaje y elige un Personaje participante controlado por tu adversario — hasta el final del Conflicto, ese Personaje recibe -2 [conflict-military] y es descartado si su Habilidad [conflict-military] cae a 0."
     }
 ]

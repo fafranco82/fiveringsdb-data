@@ -1,0 +1,7 @@
+[
+    {
+        "id": "insolent-rival",
+        "name": "Rival insolent",
+        "text": "Mientras la puja seleccionada en tu medidor de Honor sea superior a la de un adversario, este Personaje recibe +2 [conflict-military] y +2 [conflict-political].\n<b>Acción:</b> mientras este Personaje esté participando en un Conflicto, elige un Personaje participante controlado por un adversario — desafía a ese Personaje a un duelo [conflict-military]. Deshonrado al perdedor del duelo."
+    }
+]

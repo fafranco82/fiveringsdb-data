@@ -1,7 +1,7 @@
 [
     {
         "id": "duty",
-        "name": "Duty",
-        "text": "Limit 1 per deck.\n<b>Interrupt:</b> When the effect of a card ability, ring effect, or framework step would cause you to lose your last honor – cancel that effect, then gain 1 honor."
+        "name": "Deber",
+        "text": "Límite de 1 por mazo.\n<b>Interrupción:</b> cuando el efecto de una capacidad de carta, Anillo o paso estructural vaya a hacerte perder tu último punto de Honor — anula ese efecto y luego ganas 1 de Honor."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "stolen-breath",
-        "name": "Stolen Breath",
-        "text": "This attachment cannot be played during a conflict.\nAttached character cannot participate in [conflict-political] conflicts."
+        "name": "Aliento robado",
+        "text": "Este Accesorio no puede jugarse durante un Conflicto.\nEl Personaje vinculado no puede participar en Conflictos [conflict-political]."
     }
 ]

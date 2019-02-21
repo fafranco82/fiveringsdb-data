@@ -1,0 +1,7 @@
+[
+    {
+        "id": "make-an-opening",
+        "name": "Jugada inicial",
+        "text": "<b>Acción:</b> durante un Conflicto en el que controles un Personaje participante, elige un Personaje participante controlado por tu adversario — ese Personaje recibe -X [conflict-military] y -X [conflict-political] hasta el final del Conflicto, siendo X la diferencia entre la puja de tu medidor de Honor y la de tu adversario."
+    }
+]
