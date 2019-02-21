@@ -140,8 +140,16 @@
         "value": "Courtier"
     },
     {
+        "id": "trait.crane",
+        "value": "Crane"
+    },
+    {
         "id": "trait.creature",
         "value": "Creature"
+    },
+	{
+        "id": "trait.crown-prince",
+        "value": "Crown Prince"
     },
     {
         "id": "trait.curse",
@@ -153,7 +161,7 @@
     },
     {
         "id": "trait.dojo",
-        "value": "Dojo"
+        "value": "Dōjō"
     },
     {
         "id": "trait.duelist",
@@ -168,8 +176,16 @@
         "value": "Elemental Master"
     },
     {
+        "id": "trait.emperor",
+        "value": "Emperor"
+    },
+    {
         "id": "trait.engineer",
         "value": "Engineer"
+    },
+    {
+        "id": "trait.festival",
+        "value": "Festival"
     },
     {
         "id": "trait.fire",
@@ -240,6 +256,10 @@
         "value": "Library"
     },
     {
+        "id": "trait.marketplace",
+        "value": "Marketplace"
+    },
+    {
         "id": "trait.magistrate",
         "value": "Magistrate"
     },
@@ -266,6 +286,10 @@
     {
         "id": "trait.monk",
         "value": "Monk"
+    },
+    {
+        "id": "trait.mount",
+        "value": "Mount"
     },
     {
         "id": "trait.mythic",
@@ -317,7 +341,7 @@
     },
     {
         "id": "trait.ronin",
-        "value": "Ronin"
+        "value": "Rōnin"
     },
     {
         "id": "trait.scholar",
@@ -360,6 +384,10 @@
         "value": "Shugenja"
     },
     {
+        "id": "trait.skill",
+        "value": "Skill"
+    },
+    {
         "id": "trait.spell",
         "value": "Spell"
     },
@@ -394,6 +422,10 @@
     {
         "id": "trait.trap",
         "value": "Trap"
+    },
+	{
+        "id": "trait.unicorn",
+        "value": "Unicorn"
     },
     {
         "id": "trait.void",
