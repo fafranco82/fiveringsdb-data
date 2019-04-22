@@ -1,7 +1,7 @@
 [
     {
         "id": "speak-to-the-heart",
-        "name": "Speak to the Heart",
-        "text": "<b>Action:</b> During a conflict, choose a [clan-unicorn] character - that character gets +1[conflict-political] until the end of the conflict for each faceup non-stronghold province your opponent controls.  (Max 1 per conflict.)"
+        "name": "Apelar al corazón",
+        "text": "<b>Acción:</b> durante un Conflicto, elige un Personaje [clan-unicorn] — ese Personaje recibe +1 [conflict-political] hasta el final del Conflicto por cada Provincia boca arriba controlada por tu adversario que no sea una Fortaleza. (Máximo 1 por Conflicto.)"
     }
 ]

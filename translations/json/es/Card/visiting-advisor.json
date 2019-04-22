@@ -1,7 +1,7 @@
 [
     {
         "id": "visiting-advisor",
-        "name": "Visiting Advisor",
-        "text": "<b>Action:</b> During a conflict in which this character is participating, choose up to 1 other character you control - move this character and that character home."
+        "name": "Consejera visitante",
+        "text": "<b>Acción:</b> durante un Conflicto en el que esté participando este Personaje, elige otro Personaje que controles — traslada este Personaje y al Personaje elegido a casa."
     }
 ]

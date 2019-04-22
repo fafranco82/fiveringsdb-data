@@ -1,7 +1,7 @@
 [
     {
         "id": "trading-on-the-sand-road",
-        "name": "Trading on the Sand Road",
-        "text": "<b>Interrupt:</b> When the draw phase would begin - skip the draw phase. Each player removes the top 4 cards of his or her conflict deck from the game. Until the end of the round, either player may play the removed cards as if they were in his or her hand."
+        "name": "Comerciar en la Ruta de las Arenas",
+        "text": "<b>Interrupción:<b> cuando vaya a empezar la fase de Robo — omite la fase de Roba. Cada jugador retira del juego las 4 primeras cartas de la parte superior de su mazo de Conflicto. Hasta el final de la ronda, cualquier jugador puede jugar las cartas retiradas como si estuviesen en su mano."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "utaku-battle-steed",
-        "name": "Utaku Battle Steed",
-        "text": "Attach to a [clan-unicorn] character.\nAttached character gains the <b>Cavalry</b> trait.\n<b>Reaction:</b> After attached character wins a [conflict-military] conflict - honor attached character."
+        "name": "Corcel de batalla Utaku",
+        "text": "Vincula esta carta a un Personaje [clan-unicorn].\nEl Personaje vinculado gana el rasgo <em>Caballería</em>.\n<b>Reacción:</b> después de que el Personaje vinculado gane un Conflicto [conflict-military] — honra al Personaje vinculado."
     }
 ]

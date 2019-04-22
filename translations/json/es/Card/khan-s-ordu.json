@@ -1,7 +1,7 @@
 [
     {
         "id": "khan-s-ordu",
-        "name": "Khan's Ordu",
-        "text": "<b>Reaction:</b> After this province is revealed - if the current conflict is [conflict-political], switch the conflict type. Each conflict declared this phase is [conflict-military] instead of its normal type."
+        "name": "Ordu de khan",
+        "text": "<b>Reacción:</b> después de que se muestre esta Provincia — si el Conflicto actual es [conflict-political], intercamnia el tipo de Conflicto. Todo Conflicto que se declare en esta fase será [conflict-military] en vez de su tipo normal."
     }
 ]

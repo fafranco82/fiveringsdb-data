@@ -1,0 +1,7 @@
+[
+    {
+        "id": "spoils-of-war",
+        "name": "Botín de guerra",
+        "text": "<b>Reacción:</b> después de que ganes un Conflicto [conflict-military] como atacante — roba 3 cartas. Luego elige 1 carta de tu mano y descártala. (Máximo 1 por Conflicto.)"
+    }
+]
