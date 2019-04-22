@@ -29,7 +29,15 @@
         "illustrator": "Drew Baker",
         "image_url": "",
         "position": "6",
-        "quantity": 1
+        "quantity": 3
+    },
+    {
+        "card_id": "maker-of-keepsakes",
+        "flavor": "No two of her brushes are the same, each carved with a distinct grace that suits the kami dwelling within.",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "7",
+        "quantity": 3
     },
     {
         "card_id": "kakita-yuri",
@@ -47,12 +55,28 @@
         "position": "9",
         "quantity": 3
     },
+    {
+        "card_id": "benevolent-host",
+        "flavor": "Crane generosity often end conflicts before a single blow is struck.",
+        "illustrator": "Lin Hsiang",
+        "image_url": "",
+        "position": "10",
+        "quantity": 3
+    },
 	{
     	"card_id": "daidoji-uji",
     	"flavor": "\"I'm proud of what Uji-sama has done with the Iron Cranes. But do they have the will to bear such crimson stains upon their white wings?\" - Bayushi Shoju",
     	"illustrator": "Amélie Hutt",
     	"image_url": "",
     	"position": "11",
+    	"quantity": 3
+    },
+    {
+    	"card_id": "winter-court-hosts",
+    	"flavor": "",
+    	"illustrator": "Kevin Sidharta",
+    	"image_url": "",
+    	"position": "12",
     	"quantity": 3
 	},
     {
@@ -64,11 +88,51 @@
         "quantity": 3
     },
     {
+        "card_id": "yasuki-fuzake",
+        "flavor": "When Yasuki Fuzake discovered the Round Ear Nezumi, his gentle stoicism made him strong new allies. His sensei, fierce and stubborn, was not so fortunate.",
+        "illustrator": "Doug Shuler",
+        "image_url": "",
+        "position": "14",
+        "quantity": 3
+    },
+    {
+        "card_id": "kitsuki-jusai",
+        "flavor": "Rumors tell of a master duelist who has hung up his sword, unwilling to draw steel until he can find his disgraced father and complete the challenge cut short by circumstance.",
+        "illustrator": "Jake Murray",
+        "image_url": "",
+        "position": "15",
+        "quantity": 3
+    },
+    {
         "card_id": "akodo-makoto",
         "flavor": "\"I am sworn to the Lion. My former husband's acts with the Crane army are non of your concern.\"",
-        "illustrator": "Borja-Pindado",
+        "illustrator": "Borja Pindado",
         "image_url": "",
         "position": "16",
+        "quantity": 3
+    },
+    {
+        "card_id": "chukan-nobue",
+        "flavor": "When reading and writing proved impossible to her, the daughter of the Chukan daimyō set out to learn from the traditions kept alive by the people of Rokugan.",
+        "illustrator": "Andreja Ugrai",
+        "image_url": "",
+        "position": "17",
+        "quantity": 3
+    },
+    {
+        "card_id": "bayushi-dairu",
+        "flavor": "\"I was honored to stand as your champion, Daisetsu-sama.\"",
+        "illustrator": "Le Vuong",
+        "image_url": "",
+        "position": "18",
+        "quantity": 3
+    },
+    {
+        "card_id": "armament-artisan",
+        "flavor": "\"We rule the Sea of the Sun Goddess by the skill of our sailors and the excellence of our quivers.\"",
+        "illustrator": "Immar Palomera",
+        "image_url": "",
+        "position": "19",
         "quantity": 3
     },
     {
@@ -82,17 +146,33 @@
     {
         "card_id": "gossip",
         "flavor": "",
-        "illustrator": "",
+        "illustrator": "Richard Garcia",
         "image_url": "",
-        "position": "21",
+        "position": "22",
         "quantity": 3
     },
     {
         "card_id": "the-spear-rushes-forth",
         "flavor": "The Crane lives by the ceaseless vigilance of the Defenders of the Doji.",
-        "illustrator": "",
+        "illustrator": "Mark Smylie",
         "image_url": "",
         "position": "23",
+        "quantity": 3
+    },
+    {
+        "card_id": "courteous-scheming",
+        "flavor": "\"Why don't we discuss this in private?\"",
+        "illustrator": "Joyce Maureira",
+        "image_url": "",
+        "position": "24",
+        "quantity": 3
+    },
+    {
+        "card_id": "festival-for-the-fortunes",
+        "flavor": "Wisteria blooms \nPrayers fly on colored streamers \nArmies march to war",
+        "illustrator": "Borja Pindado",
+        "image_url": "",
+        "position": "25",
         "quantity": 3
     },
     {
@@ -101,6 +181,14 @@
         "illustrator": "Drew Baker",
         "image_url": "",
         "position": "26",
+        "quantity": 3
+    },
+    {
+        "card_id": "daimyo-s-gunbai",
+        "flavor": "",
+        "illustrator": "",
+        "image_url": "",
+        "position": "27",
         "quantity": 3
     }
 ]

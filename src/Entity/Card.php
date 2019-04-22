@@ -26,12 +26,13 @@ class Card
     const TYPE_ROLE = 'role';
     const TYPE_STRONGHOLD = 'stronghold';
 
-    const ELEMENTS = ['air', 'earth', 'fire', 'void', 'water'];
+    const ELEMENTS = ['air', 'earth', 'fire', 'void', 'water', 'all'];
     const ELEMENT_AIR = 'air';
     const ELEMENT_EARTH = 'earth';
     const ELEMENT_FIRE = 'fire';
     const ELEMENT_VOID = 'void';
     const ELEMENT_WATER = 'water';
+    const ELEMENT_ALL = 'all';
 
     const SIDES = ['conflict', 'dynasty', 'province', 'role'];
     const SIDE_CONFLICT = 'conflict';
@@ -70,9 +71,9 @@ class Card
     private $name;
 
     /**
-     * @var int
+     * @var integer|null
      *
-     * @ORM\Column(name="cost", type="integer", nullable=true)
+     * @ORM\Column(name="cost", type="smallint", nullable=true)
      *
      * @Skizzle\Field(type="integer")
      */
@@ -308,12 +309,12 @@ class Card
         return $this;
     }
 
-    public function getCost(): int
+    public function getCost(): ?int
     {
         return $this->cost;
     }
 
-    public function setCost(int $cost): self
+    public function setCost(?int $cost): self
     {
         $this->cost = $cost;
 

@@ -1,29 +1,29 @@
 [
     {
-        "clan": "crane",
+        "clan": "neutral",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "kakita-favorite",
+        "id": "armament-artisan",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "3",
+        "military": "2",
         "military_bonus": null,
-        "name": "Kakita Favorite",
+        "name": "Armament Artisan",
         "name_extra": null,
-        "political": "1",
+        "political": "0",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "This character gets +2[conflict-political] while it is involved in a duel.",
+        "text": "<b>Reaction:</b> After another character you control is honored - honor this character.",
         "traits": [
             "bushi",
-            "duelist"
+            "mantis-clan"
         ],
         "type": "character",
         "unicity": false

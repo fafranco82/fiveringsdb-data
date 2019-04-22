@@ -60,6 +60,10 @@
         "value": "Water"
     },
     {
+        "id": "element.all",
+        "value": "All"
+    },
+    {
         "id": "side.conflict",
         "value": "Conflict"
     },
@@ -254,6 +258,10 @@
     {
         "id": "trait.library",
         "value": "Library"
+    },
+    {
+        "id": "trait.lion",
+        "value": "Lion"
     },
     {
         "id": "trait.marketplace",

@@ -1,29 +1,28 @@
 [
     {
-        "clan": "crane",
-        "cost": 2,
+        "clan": "unicorn",
+        "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 1,
+        "glory": 0,
         "honor": null,
-        "id": "kakita-favorite",
+        "id": "wild-stallion",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "3",
+        "military": "1",
         "military_bonus": null,
-        "name": "Kakita Favorite",
+        "name": "Wild Stallion",
         "name_extra": null,
-        "political": "1",
+        "political": "0",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "This character gets +2[conflict-political] while it is involved in a duel.",
+        "text": "No attachments.\n<b>Action</b>: During a conflict in which this character is not participating, choose up to 1 other creature you control - move this character and that character to the conflict.",
         "traits": [
-            "bushi",
-            "duelist"
+            "creature"
         ],
         "type": "character",
         "unicity": false

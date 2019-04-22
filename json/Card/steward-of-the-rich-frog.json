@@ -1,29 +1,28 @@
 [
     {
-        "clan": "crane",
+        "clan": "lion",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "kakita-favorite",
+        "id": "steward-of-the-rich-frog",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "3",
+        "military": "1",
         "military_bonus": null,
-        "name": "Kakita Favorite",
+        "name": "Steward of the Rich Frog",
         "name_extra": null,
-        "political": "1",
+        "political": "3",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "This character gets +2[conflict-political] while it is involved in a duel.",
+        "text": "While you have fewer cards in your hand than an opponent, characters you control cannot receive dishonored status tokens.",
         "traits": [
-            "bushi",
-            "duelist"
+            "courtier"
         ],
         "type": "character",
         "unicity": false

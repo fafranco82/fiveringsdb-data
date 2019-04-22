@@ -1,29 +1,28 @@
 [
     {
-        "clan": "crane",
+        "clan": "lion",
         "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 1,
         "honor": null,
-        "id": "kakita-favorite",
+        "id": "matsu-swiftspear",
         "influence_cost": null,
         "influence_pool": null,
-        "military": "3",
+        "military": "2",
         "military_bonus": null,
-        "name": "Kakita Favorite",
+        "name": "Matsu Swiftspear",
         "name_extra": null,
-        "political": "1",
+        "political": "2",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "This character gets +2[conflict-political] while it is involved in a duel.",
+        "text": "While you have fewer cards in your hand than an opponent, this character gets +2[conflict-military].",
         "traits": [
-            "bushi",
-            "duelist"
+            "bushi"
         ],
         "type": "character",
         "unicity": false

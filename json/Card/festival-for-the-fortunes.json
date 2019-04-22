@@ -1,31 +1,30 @@
 [
     {
         "clan": "crane",
-        "cost": 2,
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 1,
+        "glory": null,
         "honor": null,
-        "id": "kakita-favorite",
-        "influence_cost": null,
+        "id": "festival-for-the-fortunes",
+        "influence_cost": 1,
         "influence_pool": null,
-        "military": "3",
+        "military": null,
         "military_bonus": null,
-        "name": "Kakita Favorite",
+        "name": "Festival for the Fortunes",
         "name_extra": null,
-        "political": "1",
+        "political": null,
         "political_bonus": null,
         "role_restriction": null,
-        "side": "dynasty",
+        "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "This character gets +2[conflict-political] while it is involved in a duel.",
+        "text": "<b>Action:</b> Honor each character.",
         "traits": [
-            "bushi",
-            "duelist"
+            "festival"
         ],
-        "type": "character",
+        "type": "event",
         "unicity": false
     }
 ]
