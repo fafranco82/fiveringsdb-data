@@ -1,0 +1,7 @@
+[
+    {
+        "id": "courtly-challenger",
+        "name": "Contendiente refinado",
+        "text": "Después de que este Personaje gane un duelo, hónrale. Después de que este Personaje pierda un duelo, deshónralo.\n<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-political] — resuelve el duelo. El jugador que controle al vencedor del duelo roba 2 cartas."
+    }
+]

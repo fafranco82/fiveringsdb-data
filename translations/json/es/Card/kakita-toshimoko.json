@@ -1,0 +1,7 @@
+[
+    {
+        "id": "kakita-toshimoko",
+        "name": "Kakita Toshimoko",
+        "text": "<b>Interrupción:<b> cuando este Personaje vaya a perder un Conflicto, inicia un duelo [conflict-military] contra un Personaje controlado y elegido por tu adversario — resuelve el duelo. Si gana este Personaje, en vez de resolver el Conflicto con normalidad, el recuento de Habilidad total de ambos jugadores para el Conflicto es de 0. <i>(El Anillo disputado se devuelve a la reservar de Anillos sin reclamar. El Conflicto no tiene vencedor.)"
+    }
+]
