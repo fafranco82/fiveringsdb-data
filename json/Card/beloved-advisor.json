@@ -1,28 +1,28 @@
 [
     {
-        "clan": "unicorn",
-        "cost": 1,
+        "clan": "crane",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 1,
         "honor": null,
-        "id": "wild-stallion",
+        "id": "beloved-advisor",
         "influence_cost": null,
         "influence_pool": null,
         "military": "1",
         "military_bonus": null,
-        "name": "Wild Stallion",
+        "name": "Beloved Advisor",
         "name_extra": null,
-        "political": "0",
+        "political": "3",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "No attachments.\n<b>Action</b>: During a conflict in which this character is not participating, choose up to 1 other character you control - move this character and that character to the conflict.",
+        "text": "<b>Action:</b> Choose an opponent - you and that opponent each draw a card.",
         "traits": [
-            "creature"
+            "courtier"
         ],
         "type": "character",
         "unicity": false
