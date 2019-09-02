@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "scorpion"
+        ],
         "clan": "scorpion",
         "cost": 1,
         "deck_limit": 3,
@@ -10,6 +13,7 @@
         "id": "alibi-artist",
         "influence_cost": null,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Alibi Artist",
@@ -20,7 +24,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> If you have 6 or fewer honor – look at the top 2 caards of your conflict deck. Put 1 of those cards into your hand and the other on the bottom of your conflict deck.",
+        "text": "<b>Action:</b> If you have 6 or fewer honor – look at the top 2 cards of your conflict deck. Put 1 of those cards into your hand and the other on the bottom of your conflict deck.",
         "traits": [
             "courtier",
             "shinobi"

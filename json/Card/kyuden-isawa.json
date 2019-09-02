@@ -1,5 +1,8 @@
 [
     {
+        "allowed_clans": [
+            "phoenix"
+        ],
         "clan": "phoenix",
         "cost": null,
         "deck_limit": 1,
@@ -10,6 +13,7 @@
         "id": "kyuden-isawa",
         "influence_cost": null,
         "influence_pool": 10,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Kyūden Isawa",

@@ -1,5 +1,14 @@
 [
     {
+        "allowed_clans": [
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
+        ],
         "clan": "phoenix",
         "cost": 0,
         "deck_limit": 3,
@@ -10,6 +19,7 @@
         "id": "oracle-of-stone",
         "influence_cost": 2,
         "influence_pool": null,
+        "is_restricted": false,
         "military": null,
         "military_bonus": null,
         "name": "Oracle of Stone",
@@ -20,7 +30,7 @@
         "side": "conflict",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> Each player draws 2 cards. Then, each player discards 2 cards from his or her hand.",
+        "text": "<b>Action:</b> Each player draws 2 cards. Then, each player discards 2 cards from his or her hand.\n<i>Errata from RRG v1.7</i>",
         "traits": [
             "spell",
             "earth"
