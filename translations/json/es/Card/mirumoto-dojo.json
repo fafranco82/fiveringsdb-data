@@ -1,7 +1,7 @@
 [
     {
         "id": "mirumoto-dojo",
-        "name": "Mirumoto Dōjō",
-        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel – resolve the duel. Move 1 fate from the duel's loser to its owner's fate pool. If the duel's winner is a <em>Duelist</em>, discard that fate instead."
+        "name": "Dōjō Mirumoto",
+        "text": "<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-military] — resuelve el duelo. Traslada 1 de Destino desde el perdedor del duelo hasta la reserva de Destino de su propietario. Si el vencedor del duelo es <em>Duelista</em>, en vez de eso descarta ese Destino."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "distinguished-dojo",
-        "name": "Distinguished Dōjō",
-        "text": "<b>Reaction:</b> After you win a duel - place 1 honor token on this holding. Then, you may sacrifice this holding to gain honor equal to the number of honor tokens on this holding. (Limit 3 times per round.)"
+        "name": "Dōjō distinguido",
+        "text": "<b>Reacción:</b> después de que ganes un duelo — coloca 1 ficha de Honor sobre este Recurso. Luego puedes sacrificar este Recurso para ganar tanto Honor como el número de fichas de Honor que haya sobre él. (Límite de tres veces por ronda.)"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "jewel-of-the-khamasin",
-        "name": "Jewel of the Khamasin",
-        "text": "<b>Action: </b>While attached character is attacking, lose 1 honor - reduce the attacked province's province strength by 1 until the end of the conflict (to a minimum of 0).  (Unlimited.)"
+        "name": "Joya del khamasin",
+        "text": "<b>Acción:</b> mientras el Personaje vinculado esté atacando, pierdes 1 de Honor — reduce en 1 la Fuerza de la Provincia atacada hasta el final del Conflicto (hasta un mínimo de 0). (Sin límite de usos.)"
     }
 ]

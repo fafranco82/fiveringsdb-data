@@ -1,7 +1,7 @@
 [
     {
         "id": "sincere-challenger",
-        "name": "Sincere Challenger",
-        "text": "Composure - This character gets +2[conflict-political]. <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action:</b> During a conflict, initiate a [conflict-political] duel - resolve the duel. The duel's winner is immune to events until the end of the the conflict."
+        "name": "Contendiente sincero",
+        "text": "Compostura — Este Personaje recibe +2 [conflict-political].\n<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-political] — resuelve el duelo. El vencedor del duelo es inmune a Eventos hasta el final del Conflicto."
     }
 ]

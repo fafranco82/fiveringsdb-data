@@ -1,7 +1,7 @@
 [
     {
         "id": "honorable-challenger",
-        "name": "Honorable Challenger",
-        "text": "Pride.\n<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel. The duel's winner does not bow as a result of this conflict's resolution."
+        "name": "Contendiente honorable",
+        "text": "Orgullo.\n<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-military] — resuelve el duelo. El vencedor del duelo no se inclina como consecuencia de la resolución de este Conflicto."
     }
 ]

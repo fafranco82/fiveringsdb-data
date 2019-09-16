@@ -1,7 +1,7 @@
 [
     {
         "id": "smuggling-deal",
-        "name": "Smuggling Deal",
-        "text": "<b>Action:</b> Give an opponent 1 honor and choose an ability on a character you control - you may trigger that ability an additional time this round (or specified period)."
+        "name": "Acuerdo de contrabando",
+        "text": "<b>Acción:</b> entrega a un adversario 1 de Honor y elige una capacidad de un Personaje que controles — puedes activar ese capacidad una vez adicional en esta ronda (o periodo de tiempo especificado)."
     }
 ]

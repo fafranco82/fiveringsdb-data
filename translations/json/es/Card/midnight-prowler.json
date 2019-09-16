@@ -1,7 +1,7 @@
 [
     {
         "id": "midnight-prowler",
-        "name": "Midnight Prowler",
-        "text": "<b>Reaction:</b> After this character wins a [conflict-military] conflict - look at the top 2 cards of your opponent's conflict deck. You may discard 1 of those cards"
+        "name": "Merodeador nocturno",
+        "text": "<b>Reacción:</b> después de que este Personaje gane un Conflicto [conflict-military] — mira las 2 primeras cartas del mazo de Conflicto de tu adversario. Puedes descartar 1 de esas cartas."
     }
 ]

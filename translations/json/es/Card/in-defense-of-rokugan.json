@@ -1,7 +1,7 @@
 [
     {
         "id": "in-defense-of-rokugan",
-        "name": "In Defense of Rokugan",
-        "text": "<b>Action: </b>During a conflict, sacrifice a <i>(friendly)</i> defending character and choose an attacking character - set the attacking character's [conflict-military] skill to 0 until the end of the conflict."
+        "name": "En defensa de Rokugán",
+        "text": "<b>Acción:</b> durante un Conflicto, sacrifica un Personaje <i>(aliado)</i> que esté defendiendo y elige un Personaje atacante — fija en 0 el valor de la Habilidad [conflict-military] del Personaje atacante hasta el final del Conflicto."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "infiltrator-s-tools",
-        "name": "Infiltrator's Tools",
-        "text": "Attach to a <b>Shinobi</b> character.\nAttached character gains covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)</i>"
+        "name": "Herramientas de infiltración",
+        "text": "Vincula esta carta a un Personaje <em>Shinobi</em>.\nEl Personaje vinculado gana Encubierto."
     }
 ]

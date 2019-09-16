@@ -1,7 +1,7 @@
 [
     {
         "id": "defend-your-honor",
-        "name": "Defend Your Honor",
-        "text": "<em>Keeper</em> role only.\n<b>Interrupt:</b> When the effects of an opponent's event would initiate during a conflict, initate a [conflict-military] duel against a character your opponent controls of his or her choice - resolve the duel. If your character is the duel's winner, cancel those effects."
+        "name": "Defiende tu honor",
+        "text": "Sólo Vocación <em>Guardián</em>.\n<b>Interrupción:</b> cuando vayan a iniciarse los efectos del Evento de un adversario durante un Conflicto, inicia un duelo [conflict-military] contra un Personaje controlado y elegido por tu adversario — resuelve el duelo. Si tu Personaje gana el duelo, anula esos efectos."
     }
 ]

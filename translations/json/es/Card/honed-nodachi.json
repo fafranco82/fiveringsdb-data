@@ -1,7 +1,7 @@
 [
     {
         "id": "honed-nodachi",
-        "name": "Honed Nodachi",
-        "text": "Attach to a <em>Bushi</em> character.\nRestricted.\n<b>Action:</b> After attached character wins a [conflict-military] conflict, remove 1 fate from attached character. You opponent chooses a participating character he or she controls - discard that character."
+        "name": "Nodachi afilado",
+        "text": "Vincula esta carta a un Personaje <em>Bushi</em>. Restringido.\n<b>Reacción:</b> después de que el Personaje vinculado gane un Conflicto [conflict-military], retira 1 de Destino del Personaje vinculado. Tu adversario elige un Personaje participante que controle — descarta ese Personaje"
     }
 ]

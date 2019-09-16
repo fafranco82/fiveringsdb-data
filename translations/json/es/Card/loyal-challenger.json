@@ -1,7 +1,7 @@
 [
     {
         "id": "loyal-challenger",
-        "name": "Loyal Challenger",
-        "text": "After this character wins a conflict, gain 1 honor. After this character loses a conflict, lose 1 honor.\n<b>Action:</b> During a conflict, initiate a [conflict-political] duel - resolve the duel. Treat the printed text box of the duel's loser as if it were blank (except for <em>Traits</em>) until the end of the conflict."
+        "name": "Contendiente leal",
+        "text": "Después de que este Personaje gane un Conflicto, ganas 1 de Honor. Después de que este Personaje pierda un Conflicto, pierdes 1 de Honor.\n<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-political] — resuelve el duelo. El perdedor del duelo se trata como si su texto de reglas impreso estuviese en blanco (a excepción de los <em>Rasgos</em>) hasta el final del Conflicto."
     }
 ]

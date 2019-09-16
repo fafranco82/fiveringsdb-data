@@ -1,7 +1,7 @@
 [
     {
         "id": "unmatched-expertise",
-        "name": "Unmatched Expertise",
-        "text": "<b>Fire</b> role only.\nAttached character cannot become dishonored.\n<b>Forced Reaction:</b> After attached character loses a conflict - discard this attachment."
+        "name": "Pericia incomparable",
+        "text": "Sólo Vocación de <em>Fuego</em>.\nEl Personaje vinculado no puede quedar Deshonrado.\n<b>Reacción obligada:</b> después de que el Personaje vinculado pierda un Conflicto — descarta este Accesorio."
     }
 ]

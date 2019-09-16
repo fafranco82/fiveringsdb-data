@@ -1,0 +1,7 @@
+[
+    {
+        "id": "court-of-justice",
+        "name": "Tribunal de justicia",
+        "text": "<b>Reacción:</b> después de que ganes un Conflicto [conflict-political] — mira 3 cartas aleatorias de la mano de tu adversario."
+    }
+]

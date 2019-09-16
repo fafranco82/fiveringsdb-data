@@ -1,7 +1,7 @@
 [
     {
         "id": "true-strike-kenjutsu",
-        "name": "True Strike Kenjutsu",
-        "text": "Attached character gains: \"<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel, using each character's base [conflict-military] instead of their total [conflict-military] skill for this duel. Bow the duel's loser.\""
+        "name": "Kenjutsu del golpe certero",
+        "text": "El Personaje vinculado gana: \"<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-military] — resuelve el duelo utilizando el valor básico de [conflict-military] de cada Personaje en vez de su Habilidad [conflict-military] total para este duelo. Inclina al perdedor del duelo."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "unveiled-destiny",
-        "name": "Unveiled Destiny",
-        "text": "<em>Seeker</em> role only.\nWhile attached character is attacking, the contested ring gains the element of your role. <i>(If attached character wins the conflict as an attacker, you may choose which of its ring effects to resolve.)</i>"
+        "name": "Destino revelado",
+        "text": "Solo Vocación <em>Buscador</em>.\nMientras el Personaje vinculado esté atacando, el Anillo disputado gana el elemento de tu Vocación. <i>(Si el Personaje vinculado gana el Conflicto como atacante, puedes elegir cuál de sus efectos de Anillo resolver.)</i>"
     }
 ]

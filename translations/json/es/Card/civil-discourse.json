@@ -1,7 +1,7 @@
 [
     {
         "id": "civil-discourse",
-        "name": "Civil Discourse",
-        "text": "<em>Earth</em> role only.\n<b>Action:</b> During a conflict, initiate a [conflict-political] duel against a character your opponent controls of his or her choice – resolve the duel. Until the end of the conflict, the duel’s loser gains: \"Increase the cost to play each card in your hand by 1.\""
+        "name": "Conversación civilizada",
+        "text": "Sólo Vocación de <em>Tierra</em>.\n<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-political] contra un Personaje controlado y elegido por tu adversario — resuelve el duelo. Hasta el final del Conflicto, el perdedor del duelo gana: \"Aumenta en 1 el coste que debes pagar para jugar cada carta de tu mano.\""
     }
 ]

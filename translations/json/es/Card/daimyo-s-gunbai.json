@@ -1,7 +1,7 @@
 [
     {
         "id": "daimyo-s-gunbai",
-        "name": "Daimyō's Gunbai",
-        "text": "Restricted.\n<b>Action:</b> During a conflict, if this card is in your hand, reveal it and initiate a [conflict-military] duel against a character your opponent controls of his or her choice - resolve the duel. Put this card into play attached to the duel's winner, if able. Otherwise, discard it."
+        "name": "Gunbai de daimio",
+        "text": "Restringido.\n<b>Acción:</b> durante un Conflicto, si esta carta está en tu mano, muéstrala e inicia un duelo [conflict-military] contra un Personaje controlado y elegido por tu adversario — resuelvel el duelo. Pon en juego esta carta vinculada al vencedor del duelo (si puedes). En caso contrario, descártala."
     }
 ]

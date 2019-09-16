@@ -1,7 +1,7 @@
 [
     {
         "id": "aspiring-challenger",
-        "name": "Aspiring Challenger",
-        "text": "Composure - This character gets +2 glory. <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  Honor the duel's winner."
+        "name": "Contendiente aspirante",
+        "text": "Compostura — Este Personaje recibe +2 de Gloria.\n<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-military] — resuelve el duelo. Honra al vencedor del duelo."
     }
 ]

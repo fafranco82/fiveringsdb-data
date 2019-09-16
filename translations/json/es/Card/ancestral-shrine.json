@@ -1,7 +1,7 @@
 [
     {
         "id": "ancestral-shrine",
-        "name": "Ancestral Shrine",
-        "text": "<b>Action:</b> Return 1 or more rings from your claimed ring pool to the unclaimed ring pool - you gain 1 honor for each ring returned this way."
+        "name": "Santuario ancestral",
+        "text": "<b>Acción:</b> devuelve 1 o más Anillos de tu reserva de Anillos reclamados a la reserva de Anillos sin reclamar — ganas 1 de Honor por cada Anillo que devuelvas de este modo."
     }
 ]

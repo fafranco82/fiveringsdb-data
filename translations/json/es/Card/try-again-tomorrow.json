@@ -1,7 +1,7 @@
 [
     {
         "id": "try-again-tomorrow",
-        "name": "Try Again Tomorrow",
-        "text": "<b>Action: </b>During a conflict in which you control a participating honored <b>Courtier</b> character, choose an attacking character - move that character home."
+        "name": "Vuelva a intentarlo mañana",
+        "text": "<b>Acción:</b> durante un Conflicto en el que controles un Personaje <em>Cortesano</em> Honrado participante, elige un Personaje atacante — traslada ese Personaje a Casa."
     }
 ]

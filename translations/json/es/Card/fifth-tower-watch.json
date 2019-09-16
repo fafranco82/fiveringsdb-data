@@ -1,7 +1,7 @@
 [
     {
         "id": "fifth-tower-watch",
-        "name": "Fifth Tower Watch",
-        "text": "No attachments except <em>Weapon</em>.\n<b>Interrupt:</b> When you sacrifice a character, choose an opponent. That opponent must choose a character he or she controls with lower [conflict-military] skill than the sacrificed character - bow that character."
+        "name": "Vigías de la Quinta Torre",
+        "text": "Sin Accesorios excepto <em>Arma</em>.\n<b>Interrupción:<b> cuando sacrifiques un Personaje, elige a un adversario. Ese adversario debe elegir un Personaje que controle y que tenga una Habilidad [conflict-military] inferior a la del Personaje sacrificado — inclina ese Personaje."
     }
 ]

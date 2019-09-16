@@ -1,7 +1,7 @@
 [
     {
         "id": "softskin",
-        "name": "Softskin",
-        "text": "Attached character cannot ready unless its controller discards the top 3 cards of his or her conflict deck."
+        "name": "Ablandacaras",
+        "text": "El Personaje vinculado no puede prepararse a menos que el jugador que lo controla descarta las 3 primeras cartas de su mazo de Conflicto."
     }
 ]

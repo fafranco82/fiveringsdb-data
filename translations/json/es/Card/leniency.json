@@ -1,7 +1,7 @@
 [
     {
         "id": "leniency",
-        "name": "Leniency",
-        "text": "<em>Air</em> role only.\n<b>Interrupt:</b> When you would resolve a ring effect, choose a character with printed cost 2 or lower in your provinces – instead of resolving the ring effect, put that character into play."
+        "name": "Indulgencia",
+        "text": "Sólo Vocación de <em>Aire</em>.\n<b>Interrupción:</b> cuando vayas a resolver el efecto de un Anillo, elige un Personaje que tenga un coste impreso de 2 o menos y que esté en tus Provincias — en vez de resolver el efecto del Anillo, pon en juego ese Personaje."
     }
 ]

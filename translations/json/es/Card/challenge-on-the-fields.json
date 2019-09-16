@@ -1,7 +1,7 @@
 [
     {
         "id": "challenge-on-the-fields",
-        "name": "Challenge on the Fields",
-        "text": "<b>Action:</b> During a conflict, initiate a [conflict-military] duel - resolve the duel, giving each dueling character +1[conflict-military] for each other participating character controlled by the same player until the end of the duel. Move the duel's loser home."
+        "name": "Desafío en plena batalla",
+        "text": "<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-military] — resuelve el duelo, otorgando a cada Personaje implicado +1 [conflict-military] por cada Personaje participante controlado por el mismo jugador (aparte de él mismo) hasta el final del duelo. Traslada al perdedor del duelo a Casa."
     }
 ]

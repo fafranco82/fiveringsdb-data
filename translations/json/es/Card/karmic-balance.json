@@ -1,7 +1,7 @@
 [
     {
         "id": "karmic-balance",
-        "name": "Karmic Balance",
-        "text": "Play only if your honor bid is equal to an opponent's.\n<b>Action: </b>Each player shuffles his or her hand and conflict discard pile into his or her conflict deck and draws 4 cards.  Remove this card from the game."
+        "name": "Equilibrio kármica",
+        "text": "Juega esta carta sólo si has pujado la misma cantidad de Honor que un adversario.\n<b>Acción:</b> cada jugador mezcla su mano y su pila de descartas de Conflicto junto con el resto de su mazo de Conflicto, lo baraja y roba 4 cartas. Retira esta carta del juego."
     }
 ]

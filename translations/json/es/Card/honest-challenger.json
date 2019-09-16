@@ -1,7 +1,7 @@
 [
     {
         "id": "honest-challenger",
-        "name": "Honest Challenger",
-        "text": "Composure - This character gets +2[conflict-military]. <i>(You have composure if your honor bid is lower than an opponent's.)</i>\n<b>Action: </b>During a conflict, initiate a [conflict-military] duel - resolve the duel.  The controller of the duel's winner moves a character from his or her home area to the conflict."
+        "name": "Contendiente honesta",
+        "text": "Compostura — Este Personaje recibe +2 [conflict-military].\n<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-military] — resuelve el duelo. El jugador que controla al vencedor del duelo traslada un Personaje desde su Casa hasta el Conflicto."
     }
 ]

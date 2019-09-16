@@ -1,7 +1,7 @@
 [
     {
         "id": "political-sanction",
-        "name": "Political Sanction",
-        "text": "Play only during a [conflict-political] conflict, in which you count more current [conflict-political] than your opponent, and only on a participating character.\nAttached character cannot trigger its abilities."
+        "name": "Sanción política",
+        "text": "Juega esta cata sólo durante un Conflicto [conflict-political] en el que tu recuento actual de Habilidad [conflict-political] supere el de tu adversario, y sólo sobre un Personaje participante.\nEl Personaje vinculado no puede activar sus capacidades."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "the-fires-of-justice",
-        "name": "The Fires of Justice",
-        "text": "<b>Void</b> Role only.\n<b>Reaction: </b>After you win a [conflict-military] conflict, your opponent chooses a participating character he or she controls.  Select one - remove all fate from that character, or move any amount of fate from your opponent's fate pool onto that character."
+        "name": "Los fuegos de la justicia",
+        "text": "Sólo Vocación de <em>Vacío</em>.\n<b>Reacción:</b> después de que ganes un Conflicto [conflict-military], tu adversario elige un Personaje participante que controle. Elige una de estas opciones — retira todo el Destino de ese Personaje, o bien traslada cualquier cantidad de Destino desde la reserva de Destino de tu adversario hasta ese Personaje."
     }
 ]

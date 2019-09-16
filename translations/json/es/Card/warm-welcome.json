@@ -1,7 +1,7 @@
 [
     {
         "id": "warm-welcome",
-        "name": "Warm Welcome",
-        "text": "Play only if your honor bid is lower than an opponent's.\n<b>Action:</b> Choose a card in your conflict discard pile - play that card as if it were in your hand. If that card is an event, put it on the bottom of your conflict deck."
+        "name": "Cálida bienvenida",
+        "text": "Juega esta carta sólo si has pujado menos Honor que un adversario.\n<b>Acción:</b> elige una carta que esté en la pila de descartes de tu mazo de Conflicto — juega esa carta como si estuviese en tu mano. Si es una carta de Evento, colócala en la parte inferior de tu mazo de Conflicto."
     }
 ]

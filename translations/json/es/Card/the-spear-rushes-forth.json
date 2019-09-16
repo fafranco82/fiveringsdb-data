@@ -1,7 +1,7 @@
 [
     {
         "id": "the-spear-rushes-forth",
-        "name": "The Spear Rushes Forth",
-        "text": "<b>Action:</b> During a [conflict-military] conflict, discard an honor token from a participating <i>(friendly)</i> character and choose a participating character your opponent controls - bow that character."
+        "name": "La lanza acomete",
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-military], descarta una ficha de Estatus Honrado de un Personaje participante <i>(aliado)</i> y elige un Personaje participante controlado por tu adversario — inclina ese Personaje."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "id": "festival-of-the-departed",
-        "name": "Festival of the Departed",
-        "text": "<em>Keeper</em> role only.\nDuring conflicts at this province, characters cannot have their skills increased by the effects of event cards."
+        "name": "Festival de los Difuntos",
+        "text": "Sólo Vocación <em>Guardián</em>.\nDurante los Conflictos en esta Provincia, no se pueden aumentar los valores de Habilidad de ningún Personaje mediante efectos de cartas de Evento."
     }
 ]

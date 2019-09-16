@@ -1,7 +1,7 @@
 [
     {
         "id": "iaijutsu-master",
-        "name": "Iaijutsu Master",
-        "text": "Attach to a <em>Duelist</em> character.\n<b>Reaction:</b> After honor dials are revealed during a duel in which attached character is participating - increase or decrease the value of your bid by 1 <i>(to a minimum of 0)</i>."
+        "name": "Maestro de iaijutsu",
+        "text": "Vincula esta carta a un Personaje <em>Duelista</em>.\n<b>Reacción:</b> después de que se muestren los medidores de Honor durante un duelo en el que esté participando el Personaje vinculado — aumenta o reduce en 1 el valor de tu puja (hasta un mínimo de 0)."
     }
 ]

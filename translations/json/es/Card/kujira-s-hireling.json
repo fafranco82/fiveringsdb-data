@@ -1,7 +1,7 @@
 [
     {
         "id": "kujira-s-hireling",
-        "name": "Kujira's Hireling",
-        "text": "<b>Action:</b> Spend 1 fate and select one - this character gets +1[conflict-military] and +1[conflict-political] until the end of the phase, or this character gets -1[conflict-military] and -1[conflict-political] until the end of the phase. Any player may trigger this ability. (Unlimited.)\n<b>Card design by 2017 World Champion Samuel Benies.</b>"
+        "name": "Mercenario de Kujira",
+        "text": "<b>Acción:</b> gasta 1 de Destino y elige una opción — este Personaje recibe +1 [conflict-military] y +1 [conflict-political] hasta el final de la fase, o bien este Personaje recibe -1 [conflict-military] y -1 [conflict-political] hasta el final de la fase. Cualquier jugador puede activar esta capacidad. (Sin límite de usos.)\n<b>Carta diseñada por Samuel Benies, campeón mundial de 2017.</b>"
     }
 ]

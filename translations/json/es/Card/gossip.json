@@ -1,7 +1,7 @@
 [
     {
         "id": "gossip",
-        "name": "Gossip",
-        "text": "Limited. <i>(No more than one limited card can be played by each player each round.)</i>\n..."
+        "name": "Propagar rumor",
+        "text": "Limitada.\n<b>Acción:</b> nombra una carta. Hasta el final de la fase, ningún adversario podrá j ugar cartas de su mano que tengan ese nombre."
     }
 ]

@@ -1,0 +1,7 @@
+[
+    {
+        "id": "give-no-ground",
+        "name": "Ni un paso más",
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-military], elige un Personaje defensor que controles — hasta el final del Conflicto, ese Personaje recibe +2 [conflict-military] y sus valores de Habilidad no se pueden reducir. <i>(Esto incluye las reducciones aplicadas por Accesorios, efectos duraderos y fichas de Estatus.)</i>"
+    }
+]

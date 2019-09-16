@@ -1,7 +1,7 @@
 [
     {
         "id": "a-perfect-cut",
-        "name": "A Perfect Cut",
-        "text": "<b>Action:</b> During a [conflict-military] conflict, choose a participating <em>Bushi</em> character - that character gets +2[conflict-military] until the end of the conflict. If it wins the conflict, honor it."
+        "name": "Un corte perfecto",
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-military], elige un Personaje <em>Bushi</em> participante — ese Personaje recibe +2 [conflict-military] hasta el final del Conflicto. Si gana el Conflicto, hónralo."
     }
 ]

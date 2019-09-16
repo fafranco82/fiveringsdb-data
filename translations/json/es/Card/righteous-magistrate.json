@@ -1,7 +1,7 @@
 [
     {
         "id": "righteous-magistrate",
-        "name": "Righteous Magistrate",
-        "text": "<em>Keeper</em> role only.\nWhile this character is defending, players cannot gain or lose honor."
+        "name": "Magistrada virtuosa",
+        "text": "Sólo Vocación <em>Guardián</em>.\nMientras este Personaje esté defendiendo, los jugadores no pueden ganar ni perder Honor."
     }
 ]

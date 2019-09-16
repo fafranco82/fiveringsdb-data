@@ -1,7 +1,7 @@
 [
     {
         "id": "hand-to-hand",
-        "name": "Hand to Hand",
-        "text": "<b>Action: </b>During a [conflict-military] conflict, choose an attachment on a participating character - discard that attachment.  Then, your opponent may resolve this ability."
+        "name": "Cuerpo a cuerpo",
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-military], elige un Accesorio vinculado a un Personaje participante — descarta ese Accesorio. Luego tu adversario puede resolver esta capacidad."
     }
 ]

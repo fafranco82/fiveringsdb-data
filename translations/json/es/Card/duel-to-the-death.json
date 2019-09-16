@@ -1,7 +1,7 @@
 [
     {
         "id": "duel-to-the-death",
-        "name": "Duel to the Death",
-        "text": "\n<b>Action:</b> During a conflict, initiate a [conflict-military] duel – your opponent may dishonor his or her character to refuse the duel. Otherwise, resolve the duel. Discard the duel's loser."
+        "name": "Duelo a muerte",
+        "text": "<b>Acción:</b> durante un Conflicto, inicia un duelo [conflict-military] — tu adversario puede deshonrar a su Personaje para rechazar el du elo. En caso contrario, resuelve el duelo. Descarta al perdedor del duelo."
     }
 ]

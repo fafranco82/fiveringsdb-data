@@ -1,0 +1,7 @@
+[
+    {
+        "id": "fortified-assembly",
+        "name": "Fortified Assembly",
+        "text": "Cannot be a stronghold province. This province gets +2 strength for each honor token on it.\n<b>Reaction:</b> After an attack is declared against this province - place 1 honor token on it."
+    }
+]

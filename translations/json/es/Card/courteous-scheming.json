@@ -1,7 +1,7 @@
 [
     {
         "id": "courteous-scheming",
-        "name": "Courteous Scheming",
-        "text": "<b>Action:</b> During a [conflict-political] conflict, initiate a [conflict-political] duel against a character your opponent controls of his or her choice - resolve the duel. The controller of the duel's winner may declare an additional [conflict-political] conflict this phase. (Max 1 per round.)"
+        "name": "Confabulación cortés",
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-political], inicia un duelo [conflict-political] contra un Personaje controlado y elegido por tu adversario — resuelve el duelo. El jugador que controle al vencedor del duelo podrá declarar un Conflicto [conflict-political] adicional en esta fase. (Máximo 1 por ronda.)"
     }
 ]
