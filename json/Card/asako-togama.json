@@ -10,13 +10,13 @@
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "isawa-heiko",
+        "id": "asako-togama",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "0",
+        "military": "2",
         "military_bonus": null,
-        "name": "Isawa Heiko",
+        "name": "Asako Togama",
         "name_extra": null,
         "political": "5",
         "political_bonus": null,
@@ -24,10 +24,11 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you play a <em>Water</em> card, choose a character - switch that character's base [conflict-military] and [conflict-political] skill until the end of the phase.",
+        "text": "<b>Action:</b> During a conflict in which this character is participating, choose an unclaimed ring - switch that ring with a ring in your claimed ring pool and gain all fate on it. <i>(Retain the ring's conflict type.)</i>",
         "traits": [
-            "shugenja",
-            "water"
+            "courtier",
+            "daimyo",
+            "scholar"
         ],
         "type": "character",
         "unicity": true

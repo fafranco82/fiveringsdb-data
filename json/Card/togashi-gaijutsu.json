@@ -1,33 +1,33 @@
 [
     {
         "allowed_clans": [
-            "phoenix"
+            "dragon"
         ],
-        "clan": "phoenix",
-        "cost": 4,
+        "clan": "dragon",
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "isawa-heiko",
+        "id": "togashi-gaijutsu",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "0",
+        "military": null,
         "military_bonus": null,
-        "name": "Isawa Heiko",
+        "name": "Togashi Gaijutsu",
         "name_extra": null,
-        "political": "5",
+        "political": "3",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you play a <em>Water</em> card, choose a character - switch that character's base [conflict-military] and [conflict-political] skill until the end of the phase.",
+        "text": "<b>Reaction:</b> After you play a <em>Tattoo</em> attachment on a character - ready that character.",
         "traits": [
-            "shugenja",
-            "water"
+            "monk",
+            "tattooed"
         ],
         "type": "character",
         "unicity": true
