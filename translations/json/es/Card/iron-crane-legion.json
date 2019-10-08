@@ -1,7 +1,7 @@
 [
     {
         "id": "iron-crane-legion",
-        "name": "Iron Crane Legion",
-        "text": "No attachments except <em>Weapon</em>.\nDuring conflicts in which you are the attacking or defending player, X is equal to the number of cards in your opponent's hand. <i>(Otherwise, X is zero.)</i>"
+        "name": "Legión de Grullas de Hierro",
+        "text": "Sin Accesorios exceptio <em>Arma</em>.\nDurante los Conflictos en los que tú seas el jugador atacante o defensor, X es igual al número de cartas que haya en la mano de tu adversario. <i>(En cualquier otro caso, X es igual a 0.)<i>"
     }
 ]

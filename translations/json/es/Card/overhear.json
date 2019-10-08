@@ -1,7 +1,7 @@
 [
     {
         "id": "overhear",
-        "name": "Overhear",
-        "text": "<b>Action:</b> During a [conflict-political] conflict - your opponent reveals a random card from his or her hand and puts it on top of his or her conflict deck. If you control a participating <em>Courtier</em> character, you may give your opponent 1 honor to resolve this ability twice."
+        "name": "Oír por casualidad",
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-political] — tu adversario muestra una carta aleatorio de su mano y la coloca en la parte superior de su mazo de Conflicto. Si controlas un Personaje <em>Cortesano</em> participante, puedes entregar 1 de Honor a tu adversario para resolver esta capacidad dos veces."
     }
 ]

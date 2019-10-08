@@ -1,7 +1,7 @@
 [
     {
         "id": "invoke-the-divine",
-        "name": "Invoke the Divine",
-        "text": "<b>Action:</b> Play up to 3 <em>Spell</em> cards with printed total cost 5 or less from your hand without paying their costs. <i>(This includes costs other than fate costs.)</i>"
+        "name": "Apelación divina",
+        "text": "<b>Acción:</b> juega desde tu mano y sin pagar sus costes hasta 3 cartas <em>Conjuro</em> cuyo coste impreso total sume 5 o menos. <i>(Esto incluye otros costes aparte de los de Destino.)</i>"
     }
 ]

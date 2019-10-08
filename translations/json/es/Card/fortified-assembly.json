@@ -1,7 +1,7 @@
 [
     {
         "id": "fortified-assembly",
-        "name": "Fortified Assembly",
-        "text": "Cannot be a stronghold province. This province gets +2 strength for each honor token on it.\n<b>Reaction:</b> After an attack is declared against this province - place 1 honor token on it."
+        "name": "Fortificación",
+        "text": "Esta Provincia no puede utilizarse como Fortaleza. Esta Provincia recibe un +2 a su Fuerza por cada ficha de Honor que tenga encima.\n<b>Reacción:</b> después de que se declare un ataque contra esta Provincia — coloca 1 ficha de Honor sobre ella."
     }
 ]

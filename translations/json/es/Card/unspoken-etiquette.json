@@ -1,7 +1,7 @@
 [
     {
         "id": "unspoken-etiquette",
-        "name": "Unspoken Etiquette",
-        "text": "<b>Action:</b> During a [conflict-political] conflict - dishonor each participating non-<em>Courtier</em> character."
+        "name": "Protocolo tácito",
+        "text": "<b>Acción:</b> durante un Conflicto [conflict-political] — deshonra a todos los Personajes participantes que no sean <em>Cortesano</em>."
     }
 ]

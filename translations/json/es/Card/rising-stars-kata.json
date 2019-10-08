@@ -1,7 +1,7 @@
 [
     {
         "id": "rising-stars-kata",
-        "name": "Rising Stars Kata",
-        "text": "<b>Action:</b> During a conflict, choose a participating unique character – that character gets +3[conflict-military] until the end of the conflict. (+5[conflict-military] instead if that character has won a duel this conflict). (Max 1 per conflict.)"
+        "name": "Kata de las Estrellas Emergentes",
+        "text": "<b>Acción:</b> durante un Conflicto, elige un Personaje único participante — ese Personaje recibe +3 [conflict-military] hasta el final del Conflicto (+5 [conflict-military] si ese Personaje ha ganado un duelo en este Conflicto). (Máximo 1 por Conflicto.)"
     }
 ]

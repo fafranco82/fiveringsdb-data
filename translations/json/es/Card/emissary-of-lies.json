@@ -1,7 +1,7 @@
 [
     {
         "id": "emissary-of-lies",
-        "name": "Emissary of Lies",
-        "text": "<b>Action:</b> During a conflict in which this character is participating, choose a participating character controlled by your opponent - your opponent guesses the name of a card. You may reveal your hand. If you do, and the named card is not in your hand, move the chosen character home."
+        "name": "Emisario de mentiras",
+        "text": "<b>Acción:</b> durante un Conflicto en el que esté participando este Personaje, elige un Personaje participante controlado por tu adversario — tu adversario intenta adivinar el nombre de una carta. Puedes mostrar tu mano. Si decides hacerlo y la carta nombra no está en tu mano, traslada el Personaje elegido a Casa."
     }
 ]

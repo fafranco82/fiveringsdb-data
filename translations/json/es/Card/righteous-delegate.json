@@ -1,7 +1,7 @@
 [
     {
         "id": "righteous-delegate",
-        "name": "Righteous Delegate",
-        "text": "<b>Action:</b> While this character is participating in a conflict -  until the end of the conflict, each participating non-<em>Bushi</em> character gets +1[conflict-military] and +1[conflict-political] and each participating <em>Bushi</em> character gets -1[conflict-military] and -1[conflict-political]."
+        "name": "Delegada ecuánime",
+        "text": "<b>Acción:</b> durante un Conflicto en el que esté participando este Personaje — hasta el final del Conflicto, cada Personaje participante que no sea <em>Bushi</em> recibe +1 [conflict-military] y +1 [conflict-political], y cada Personaje <em>Bushi</em> participante recibe -1 [conflict-military] y -1 [conflict-political]."
     }
 ]

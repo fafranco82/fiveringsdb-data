@@ -1,7 +1,7 @@
 [
     {
         "id": "emperor-s-summons",
-        "name": "Emperor's Summons",
-        "text": "<em>Seeker</em> role only.\n<b>Reaction:</b> After this province is revealed - search your dynasty deck for a character card and put it faceup into a non-stronghold province you control, discarding each other card in that province. Shuffle."
+        "name": "Convocatoria imperial",
+        "text": "Sólo Vocación <em>Buscador</em>.\n<b>Reacción:</b> después de que se muestre esta Provincia — busca un Personaje en tu mazo de Dinastía y ponlo boca arriba en una Provincia que controles y que no sea una Fortaleza, descartando todas las demás cartas que haya en esa Provincia. Baraja el mazo."
     }
 ]
