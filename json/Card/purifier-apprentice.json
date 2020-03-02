@@ -1,32 +1,33 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "crab"
         ],
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "crab",
+        "cost": 1,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 0,
         "honor": null,
-        "id": "niten-master",
+        "id": "purifier-apprentice",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "1",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Purifier Apprentice",
         "name_extra": null,
-        "political": "3",
+        "political": "0",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "<b>Reaction:</b> After you win a conflict as the defending player - your opponent loses 1 honor.",
         "traits": [
-            "bushi"
+            "shugenja",
+            "earth"
         ],
         "type": "character",
         "unicity": false

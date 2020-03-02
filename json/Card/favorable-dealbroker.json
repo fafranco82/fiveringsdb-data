@@ -1,22 +1,22 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "crab"
         ],
-        "clan": "dragon",
+        "clan": "crab",
         "cost": 4,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 1,
         "honor": null,
-        "id": "niten-master",
+        "id": "favorable-dealbroker",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "2",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Favorable Dealbroker",
         "name_extra": null,
         "political": "3",
         "political_bonus": null,
@@ -24,9 +24,10 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "<b>Reaction:</b> After this character enters play - search your dynasty deck for a character with printed cost 1 and put it into play. Shuffle.",
         "traits": [
-            "bushi"
+            "courtier",
+            "merchant"
         ],
         "type": "character",
         "unicity": false

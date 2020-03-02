@@ -1,22 +1,22 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "scorpion"
         ],
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "scorpion",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "niten-master",
+        "id": "yogo-asami",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "0",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Yogo Asami",
         "name_extra": null,
         "political": "3",
         "political_bonus": null,
@@ -24,11 +24,11 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "Bayushi Kachiko cannot be chosen as the target of abilities triggered by an opponent.\n<b>Action:</b> During a conflict in which this character is participating, bow it and choose a participating character – That character gets -2[conflict-military] until the end of the conflict.",
         "traits": [
-            "bushi"
+            "courtier"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

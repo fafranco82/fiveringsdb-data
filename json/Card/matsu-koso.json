@@ -1,34 +1,35 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "lion"
         ],
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "lion",
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "niten-master",
+        "id": "matsu-koso",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
         "military": "3",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Matsu Koso",
         "name_extra": null,
-        "political": "3",
+        "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "<b>Action:</b> During a conflict in which this character is participating - each participating character gets -X[conflict-military] until the end of the conflict, where X is that character's printed [conflict-political] skill.",
         "traits": [
-            "bushi"
+            "bushi",
+            "berserker"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

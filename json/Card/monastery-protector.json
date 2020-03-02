@@ -10,13 +10,13 @@
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "niten-master",
+        "id": "monastery-protector",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
         "military": "3",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Monastery Protector",
         "name_extra": null,
         "political": "3",
         "political_bonus": null,
@@ -24,9 +24,10 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "No attachments except <em>Monk</em> or <em>Tattoo</em>.\nAs an additional cost to choose a <em>Tattooed</em> character you control as a target of an event, the opponent playing that event must pay 1 additional fate.",
         "traits": [
-            "bushi"
+            "monk",
+            "tattooed"
         ],
         "type": "character",
         "unicity": false

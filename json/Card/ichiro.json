@@ -1,34 +1,42 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "crab",
+            "crane",
+            "dragon",
+            "lion",
+            "phoenix",
+            "scorpion",
+            "unicorn"
         ],
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "neutral",
+        "cost": 3,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 1,
         "honor": null,
-        "id": "niten-master",
+        "id": "ichiro",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
         "military": "3",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Ichirō",
         "name_extra": null,
-        "political": "3",
+        "political": "2",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "Each character with 1 or more attachments cannot be honored or dishonored.",
         "traits": [
-            "bushi"
+            "bushi",
+            "heretic",
+            "ronin"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

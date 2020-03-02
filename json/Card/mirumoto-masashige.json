@@ -10,13 +10,13 @@
         "fate": null,
         "glory": 2,
         "honor": null,
-        "id": "niten-master",
+        "id": "mirumoto-masashige",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "4",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Mirumoto Masashige",
         "name_extra": null,
         "political": "3",
         "political_bonus": null,
@@ -24,11 +24,13 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "<b>Reaction:</b> After the conflict phase begins, if an opponent controls more characters than you, choose a character you control - honor that character.",
         "traits": [
-            "bushi"
+            "bushi",
+            "daimyo",
+            "duelist"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

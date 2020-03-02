@@ -1,34 +1,36 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "crab"
         ],
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "crab",
+        "cost": 6,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 1,
         "honor": null,
-        "id": "niten-master",
+        "id": "kaiu-siege-force",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "7",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Kaiu Siege Force",
         "name_extra": null,
-        "political": "3",
+        "political": "2",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "No attachments.\n<b>Action:</b> Put a <i>(friendly)</i> holding on the bottom of your dynasty deck - ready this character.",
         "traits": [
-            "bushi"
+            "bushi",
+            "army",
+            "engineer"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

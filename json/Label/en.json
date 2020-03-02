@@ -92,6 +92,10 @@
         "value": "Air"
     },
     {
+        "id": "trait.armor",
+        "value": "Armor"
+    },
+    {
         "id": "trait.army",
         "value": "Army"
     },
@@ -110,6 +114,10 @@
     {
         "id": "trait.berserker",
         "value": "Berserker"
+    },
+    {
+        "id": "trait.brotherhood",
+        "value": "Brotherhood"
     },
     {
         "id": "trait.bushi",
@@ -304,6 +312,10 @@
         "value": "Meishōdō"
     },
     {
+        "id": "trait.merchant",
+        "value": "Merchant"
+    },
+    {
         "id": "trait.mine",
         "value": "Mine"
     },
@@ -456,8 +468,16 @@
         "value": "Unicorn"
     },
     {
+        "id": "trait.village",
+        "value": "Village"
+    },
+    {
         "id": "trait.void",
         "value": "Void"
+    },
+    {
+        "id": "trait.wasteland",
+        "value": "Wasteland"
     },
     {
         "id": "trait.water",

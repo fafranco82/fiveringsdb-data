@@ -1,34 +1,35 @@
 [
     {
         "allowed_clans": [
-            "dragon"
+            "crab"
         ],
-        "clan": "dragon",
-        "cost": 4,
+        "clan": "crab",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": 1,
         "honor": null,
-        "id": "niten-master",
+        "id": "hida-sukune",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "1",
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Hida Sukune",
         "name_extra": null,
-        "political": "3",
+        "political": "2",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "text": "<b>Action:</b> During a conflict in which this character is defending - draw 1 card and discard 1 card from your hand. (Limit once per conflict.)",
         "traits": [
-            "bushi"
+            "bushi",
+            "commander"
         ],
         "type": "character",
-        "unicity": false
+        "unicity": true
     }
 ]

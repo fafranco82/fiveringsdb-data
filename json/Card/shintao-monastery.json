@@ -4,31 +4,31 @@
             "dragon"
         ],
         "clan": "dragon",
-        "cost": 4,
+        "cost": null,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 2,
+        "glory": null,
         "honor": null,
-        "id": "niten-master",
+        "id": "shintao-monastery",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": null,
         "military_bonus": null,
-        "name": "Niten Master",
+        "name": "Shintao Monastery",
         "name_extra": null,
-        "political": "3",
+        "political": null,
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
-        "strength_bonus": null,
-        "text": "<b>Reaction:</b> After you attach a <em>Weapon</em> attachment to this character – ready this character. (Limit twice per round.)",
+        "strength_bonus": "+2",
+        "text": "You are considered to have played an additional card in each conflict.",
         "traits": [
-            "bushi"
+            "temple"
         ],
-        "type": "character",
+        "type": "holding",
         "unicity": false
     }
 ]

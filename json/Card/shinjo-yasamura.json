@@ -1,33 +1,33 @@
 [
     {
         "allowed_clans": [
-            "crab"
+            "unicorn"
         ],
-        "clan": "crab",
-        "cost": 3,
+        "clan": "unicorn",
+        "cost": 2,
         "deck_limit": 3,
         "element": null,
         "fate": null,
-        "glory": 0,
+        "glory": 1,
         "honor": null,
-        "id": "yasuki-hikaru",
+        "id": "shinjo-yasamura",
         "influence_cost": null,
         "influence_pool": null,
         "is_restricted": false,
-        "military": "3",
+        "military": "2",
         "military_bonus": null,
-        "name": "Yasuki Hikaru",
+        "name": "Shinjo Yasamura",
         "name_extra": null,
-        "political": "2",
+        "political": "0",
         "political_bonus": null,
         "role_restriction": null,
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Action:</b> During a conflict in which this character is defending, choose an attacking character with higher [conflict-military] skill than this character - move the chosen character home.",
+        "text": "Covert. <i>(When this character attacks, choose one character without covert. That character cannot be declared as a defender.)</i><b>Reaction:</b> After this character evades a character using covert - that character cannot be declared as a defender this phase.",
         "traits": [
             "bushi",
-            "magistrate"
+            "cavalry"
         ],
         "type": "character",
         "unicity": true
