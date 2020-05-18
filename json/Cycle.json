@@ -36,9 +36,9 @@
         "size": 6
     },
     {
-      "id": "promos",
-      "name": "Promos",
-      "position": 99,
-      "size": 99
+        "id": "dominion",
+        "name": "Dominion Cycle",
+        "position": 7,
+        "size": 6
     }
 ]

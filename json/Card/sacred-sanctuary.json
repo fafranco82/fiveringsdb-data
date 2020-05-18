@@ -6,13 +6,17 @@
         "clan": "dragon",
         "cost": null,
         "deck_limit": 1,
-        "element": "air",
+        "element": [
+            "air"
+        ],
         "fate": null,
         "glory": null,
         "honor": null,
         "id": "sacred-sanctuary",
         "influence_cost": null,
         "influence_pool": null,
+        "is_banned": false,
+        "is_banned_in_skirmish": false,
         "is_restricted": false,
         "military": null,
         "military_bonus": null,

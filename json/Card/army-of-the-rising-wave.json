@@ -4,15 +4,17 @@
             "dragon"
         ],
         "clan": "dragon",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
-        "element": null,
+        "element": [],
         "fate": null,
         "glory": 2,
         "honor": null,
         "id": "army-of-the-rising-wave",
         "influence_cost": null,
         "influence_pool": null,
+        "is_banned": false,
+        "is_banned_in_skirmish": false,
         "is_restricted": false,
         "military": "6",
         "military_bonus": null,
@@ -24,7 +26,7 @@
         "side": "dynasty",
         "strength": null,
         "strength_bonus": null,
-        "text": "<b>Reaction:</b> After this character enters play - place 1 fate on each unclaimed ring.",
+        "text": "No attachments except <em>Weapon</em>.\n<b>Reaction:</b> After this character enters play - place 1 fate on each unclaimed ring.",
         "traits": [
             "bushi",
             "army"

@@ -80,6 +80,10 @@
         "value": "Role"
     },
     {
+        "id": "side.treaty",
+        "value": "Treaty"
+    },
+    {
         "id": "trait.academy",
         "value": "Academy"
     },
@@ -176,12 +180,20 @@
         "value": "Daimyō"
     },
     {
+        "id": "trait.deer-clan",
+        "value": "Deer Clan"
+    },
+    {
         "id": "trait.dojo",
         "value": "Dōjō"
     },
     {
         "id": "trait.dragon",
         "value": "Dragon"
+    },
+    {
+        "id": "trait.dragonfly-clan",
+        "value": "Dragonfly Clan"
     },
     {
         "id": "trait.duelist",
@@ -220,6 +232,10 @@
         "value": "Fort"
     },
     {
+        "id": "trait.fox-clan",
+        "value": "Fox Clan"
+    },
+    {
         "id": "trait.gaijin",
         "value": "Gaijin"
     },
@@ -236,6 +252,10 @@
         "value": "Goblin"
     },
     {
+        "id": "trait.heresy",
+        "value": "Heresy"
+    },
+    {
         "id": "trait.heretic",
         "value": "Heretic"
     },
@@ -246,6 +266,10 @@
     {
         "id": "trait.informant",
         "value": "Informant"
+    },
+    {
+        "id": "trait.inn",
+        "value": "Inn"
     },
     {
         "id": "trait.item",
@@ -332,6 +356,10 @@
         "value": "Mythic"
     },
     {
+        "id": "trait.nezumi",
+        "value": "Nezumi"
+    },
+    {
         "id": "trait.omen",
         "value": "Omen"
     },
@@ -374,6 +402,10 @@
     {
         "id": "trait.river",
         "value": "River"
+    },
+    {
+      "id": "trait.road",
+      "value": "Road"
     },
     {
         "id": "trait.ronin",
@@ -522,5 +554,9 @@
     {
         "id": "type.stronghold",
         "value": "Stronghold"
+    },
+    {
+        "id": "type.treaty",
+        "value": "Treaty"
     }
 ]
